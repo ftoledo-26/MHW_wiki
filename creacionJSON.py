@@ -11,7 +11,7 @@ def get_monsters(URL):
         print(f"Error fetching data from {URL}: {e}")
         return []
     monsters = [{"id": mon["id"], "species": mon["species"], "name": mon["name"], "description": mon["description"],
-                 "elements": mon["elements"], "assets": {"image": ""}} for mon in data]
+                 "elements": mon["elements"], "assets": {"image": " "}} for mon in data]
     
     with open("monstruos.json", "w", encoding="utf-8") as file:
         json.dump(monsters, file, indent=4, ensure_ascii=False)
@@ -38,7 +38,7 @@ def get_location(URL):
     response = req.get(URL)
     data = response.json()
 
-    lugares =[{"id": lugar["id"], "name": lugar["name"],"assets": {"image": ""}  }for lugar in data]
+    lugares =[{"id": lugar["id"], "name": lugar["name"],"assets": {"image": " "}  }for lugar in data]
     
     with open("lugares.json", "w", encoding="utf-8") as file:
         json.dump(lugares, file, indent=4, ensure_ascii=False)

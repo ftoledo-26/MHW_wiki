@@ -1,0 +1,100 @@
+[
+    {
+        "id": 1,
+        "name": "Ancient Forest",
+        "assets": {
+            "image": " "
+        }
+    },
+    {
+        "id": 2,
+        "name": "Coral Highlands",
+        "assets": {
+            "image": " "
+        }
+    },
+    {
+        "id": 3,
+        "name": "Wildspire Waste",
+        "assets": {
+            "image": " "
+        }
+    },
+    {
+        "id": 4,
+        "name": "Rotten Vale",
+        "assets": {
+            "image": " "
+        }
+    },
+    {
+        "id": 5,
+        "name": "Elder's Recess",
+        "assets": {
+            "image": " "
+        }
+    },
+    {
+        "id": 6,
+        "name": "Great Ravine",
+        "assets": {
+            "image": " "
+        }
+    },
+    {
+        "id": 7,
+        "name": "Confluence of Fates",
+        "assets": {
+            "image": " "
+        }
+    },
+    {
+        "id": 8,
+        "name": "Everstream",
+        "assets": {
+            "image": " "
+        }
+    },
+    {
+        "id": 9,
+        "name": "Caverns of El Dorado",
+        "assets": {
+            "image": " "
+        }
+    },
+    {
+        "id": 10,
+        "name": "Special Arena",
+        "assets": {
+            "image": " "
+        }
+    },
+    {
+        "id": 11,
+        "name": "Arena",
+        "assets": {
+            "image": " "
+        }
+    },
+    {
+        "id": 12,
+        "name": "Hoarfrost Reach",
+        "assets": {
+            "image": " "
+        }
+    },
+    {
+        "id": 13,
+        "name": "Guiding Lands",
+        "assets": {
+            "image": " "
+        }
+    },
+    {
+        "id": 14,
+        "name": "Secluded Valley",
+        "assets": {
+            "image": " "
+        }
+    }
+]
