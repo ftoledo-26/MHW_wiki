@@ -6,7 +6,7 @@
         "description": "Docile herbivores that graze in packs. Their meat is considered a delicacy and is rich in nutrients. If one member of the herd is attacked, the rest will flee immediately.",
         "elements": [],
         "assets": {
-            "image": " "
+            "image": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/mhw-aptonoth_icon.png"
         }
     },
     {
@@ -16,7 +16,7 @@
         "description": "Members of the Great Jagras pack, these smaller monsters will flee upon seeing one of their own perish. They're also known for ambushing larger monsters at a moment's notice.",
         "elements": [],
         "assets": {
-            "image": " "
+            "image": "https://static.wikia.nocookie.net/monsterhunter/images/3/39/MHW-Jagras_Icon.png/revision/latest?cb=20210724005620"
         }
     },
     {
@@ -26,7 +26,7 @@
         "description": "Wingdrakes that feast on scatternuts. The flock will travel great distances when startled, making them an invaluable mode of transportation for clever hunters.",
         "elements": [],
         "assets": {
-            "image": " "
+            "image": "https://cdn.kiranico.net/file/kiranico/mhworld-web/mhw/icon/ems050_ID.png"
         }
     },
     {
@@ -36,7 +36,7 @@
         "description": "Insects that paralyze their targets with their long stingers. They break easily, so attack them with poison or slinger ammo if you want to carve them.",
         "elements": [],
         "assets": {
-            "image": " "
+            "image": "https://static.wikia.nocookie.net/monsterhunterespanol/images/5/58/MHW-Icono_Vespoid.png/revision/latest?cb=20210823130138&path-prefix=es"
         }
     },
     {
@@ -46,7 +46,7 @@
         "description": "Mosswine are known for their excellent sense of smell, and are often found foraging for fungi. If you're hunting for mushrooms, follow the Mosswine to the motherlode.",
         "elements": [],
         "assets": {
-            "image": " "
+            "image": "https://static.wikia.nocookie.net/monsterhunter/images/1/18/MHW-Mosswine_Icon.png/revision/latest?cb=20210724010152"
         }
     },
     {
@@ -56,7 +56,7 @@
         "description": "Herbivores that inhabit the Wildspire Waste. They've developed particularly hard hide to ward off attackers, and are known to gather in groups to defend themselves.",
         "elements": [],
         "assets": {
-            "image": " "
+            "image": "https://static.wikia.nocookie.net/monsterhunterespanol/images/0/05/MHW-Icono_Apceros.png/revision/latest?cb=20210823125323&path-prefix=es"
         }
     },
     {
@@ -66,7 +66,7 @@
         "description": "Female Kestodon will alert the pack of danger, while the males will violently charge would-be threats. Their rushing charges can be blocked, however, leaving them open to attacks.",
         "elements": [],
         "assets": {
-            "image": " "
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHSYSCWT0SN2oBaUcbNb7WeQsTbotgBRVQOg&s"
         }
     },
     {
@@ -76,7 +76,7 @@
         "description": "Wingdrakes that produce a sound similar to screamer pods when startled. Use meat to get their attention, and then hunt them for materials, or use them for transportation.",
         "elements": [],
         "assets": {
-            "image": " "
+            "image": "https://static.wikia.nocookie.net/monsterhunterespanol/images/9/94/MHW-Icono_Noios.png/revision/latest?cb=20210823130025&path-prefix=es"
         }
     },
     {
@@ -86,7 +86,7 @@
         "description": "Vicious piscine that form groups to defend their territory from intruders. Be sure not to venture too closely to their habitat!",
         "elements": [],
         "assets": {
-            "image": " "
+            "image": "https://cdn.kiranico.net/file/kiranico/mhworld-web/mhw/icon/ems029_ID.png"
         }
     },
     {
@@ -96,7 +96,7 @@
         "description": "Small herbivores known for their gentle demeanor and the medicinal properties of their horns. Those wishing to harvest a horn should aim for the head when attacking them.",
         "elements": [],
         "assets": {
-            "image": " "
+            "image": "https://static.wikia.nocookie.net/monsterhunterespanol/images/4/46/MHW-Icono_Kelbi.png/revision/latest/thumbnail/width/360/height/360?cb=20210823125851&path-prefix=es"
         }
     },
     {
@@ -106,7 +106,7 @@
         "description": "Wingdrakes inhabiting the Coral Highlands. They group up to steal the eggs of other animals, but this in turn exposes them to the attention of larger, more vicious predators.",
         "elements": [],
         "assets": {
-            "image": " "
+            "image": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/mhw-raphinos_icon2.png"
         }
     },
     {
@@ -116,7 +116,7 @@
         "description": "Small nocturnal monsters. They're particularly vulnerable to Tzitzi-Ya-Ku's blinding flash, but have been known to gang up on enemies.",
         "elements": [],
         "assets": {
-            "image": " "
+            "image": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/mhw-shamos_icon2.png"
         }
     },
     {
@@ -126,7 +126,7 @@
         "description": "Monsters known to attack in packs, using the deadly vapor of the Rotten Vale to their advantage. They're known for crippling targets with paralyzing fangs.",
         "elements": [],
         "assets": {
-            "image": " "
+            "image": "https://static.wikia.nocookie.net/monsterhunter/images/1/11/MHW-Girros_Icon.png/revision/latest?cb=20210724005319"
         }
     },
     {
@@ -136,7 +136,7 @@
         "description": "Small insects that are found primarily on land. They're highly territorial and will attack anything that approaches them. Gather their materials by attacking them with the slinger.",
         "elements": [],
         "assets": {
-            "image": " "
+            "image": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/mhw-hornetaur_icon2.png"
         }
     },
     {
@@ -146,7 +146,7 @@
         "description": "Pack monsters that inhabit the Elder's Recess. They are easily angered by intruders, and will charge at monsters twice their size.",
         "elements": [],
         "assets": {
-            "image": " "
+            "image": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/mhw-gastodon_icon.png"
         }
     },
     {
@@ -156,7 +156,7 @@
         "description": "Fervid wingdrakes that have flourished under harsh living conditions. They target intruders with a unique acidic agent, and then attack as a swarm.",
         "elements": [],
         "assets": {
-            "image": " "
+            "image": "https://static.wikia.nocookie.net/monsterhunterespanol/images/4/4a/MHW-Icono_Barnos.png/revision/latest?cb=20210823125350&path-prefix=es"
         }
     },
     {
@@ -166,7 +166,7 @@
         "description": "The pack leader of the Jagras. When hungry, Great Jagras are known to attack monsters even stronger than themselves. It balloons to unbelievable proportions after swallowing prey.",
         "elements": [],
         "assets": {
-            "image": " "
+            "image": "https://static.wikia.nocookie.net/monsterhunter/images/a/a0/MHN-Great_Jagras.png/revision/latest?cb=20231206173811"
         }
     },
     {
@@ -176,7 +176,7 @@
         "description": "An odd bird wyvern that has developed limbs capable of carrying weapons. It's been spotted stealing eggs from nests found in the Ancient Forest and Wildspire Waste.",
         "elements": [],
         "assets": {
-            "image": " "
+            "image": "https://static.wikia.nocookie.net/monsterhunter/images/8/8d/MHN-Kulu-Ya-Ku.png/revision/latest?cb=20231206173833"
         }
     },
     {
@@ -186,7 +186,7 @@
         "description": "A bird wyvern known to possess poisonous toxins in its body. It's been spotted storing scatternuts in its mouth or tail, coating them with poison and spitting them out at threats.",
         "elements": [],
         "assets": {
-            "image": " "
+            "image": "https://static.wikia.nocookie.net/monsterhunter/images/b/b5/MHW-Pukei-Pukei_Icon.png/revision/latest?cb=20210724010356"
         }
     },
     {
@@ -196,7 +196,7 @@
         "description": "Barroth seek out ants, their favorite snack, and mark their territory with mud. They attack potential rivals with their devastating charging attack.",
         "elements": [],
         "assets": {
-            "image": " "
+            "image": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/MHW-Barroth_Icon.png"
         }
     },
     {
@@ -208,7 +208,7 @@
             "water"
         ],
         "assets": {
-            "image": " "
+            "image": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/mhw-jyuratodus_icon.png"
         }
     },
     {
@@ -220,7 +220,7 @@
             "thunder"
         ],
         "assets": {
-            "image": " "
+            "image": "https://static.wikia.nocookie.net/monsterhunter/images/c/cf/MHW-Tobi-Kadachi_Icon.png/revision/latest?cb=20210724010601"
         }
     },
     {
@@ -232,7 +232,7 @@
             "fire"
         ],
         "assets": {
-            "image": " "
+            "image": "https://static.wikia.nocookie.net/monsterhunter/images/f/fc/MHN-Anjanath.png/revision/latest?cb=20231206173707"
         }
     },
     {
@@ -244,7 +244,7 @@
             "fire"
         ],
         "assets": {
-            "image": " "
+            "image": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/mhw-azure_rathalos_icon.png"
         }
     },
     {
@@ -256,7 +256,7 @@
             "fire"
         ],
         "assets": {
-            "image": " "
+            "image": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/mhw-bazelgeuse_icon.png"
         }
     },
     {
@@ -269,7 +269,7 @@
             "thunder"
         ],
         "assets": {
-            "image": " "
+            "image": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/mhw-behemoth_icon.png"
         }
     },
     {
@@ -281,7 +281,7 @@
             "dragon"
         ],
         "assets": {
-            "image": " "
+            "image": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/mhw-deviljho_icon.png"
         }
     },
     {
@@ -291,7 +291,7 @@
         "description": "The apex monster of the Wildspire Waste.\nA menacing, territorial beast that lurks underground.\nLoud noises will cause it to lunge out of the sand in search of prey.",
         "elements": [],
         "assets": {
-            "image": " "
+            "image": "https://static.wikia.nocookie.net/monsterhunter/images/5/5c/MHN-Diablos.png/revision/latest?cb=20231206173757"
         }
     },
     {
@@ -301,7 +301,7 @@
         "description": "These black-shelled Diablos are actually female Diablos in heat. The color signals their aggressiveness and heightened hostility to other creatures in their habitat.",
         "elements": [],
         "assets": {
-            "image": " "
+            "image": "https://static.wikia.nocookie.net/monsterhunter/images/b/b7/MHN-Black_Diablos.png/revision/latest?cb=20231206173749"
         }
     },
     {
@@ -313,7 +313,7 @@
             "fire"
         ],
         "assets": {
-            "image": " "
+            "image": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/mhw-dodogama_icon.png"
         }
     },
     {
@@ -323,7 +323,7 @@
         "description": "A monster that scavenges for meals dropped from the Coral Highlands.\nIt acts as the alpha leader of a Girros pack, and sports giant fangs that paralyze its prey.",
         "elements": [],
         "assets": {
-            "image": " "
+            "image": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/mhw-great_girros_icon2.png"
         }
     },
     {
@@ -335,7 +335,7 @@
             "thunder"
         ],
         "assets": {
-            "image": " "
+            "image": "https://static.wikia.nocookie.net/monsterhunter/images/8/81/MHW-Kirin_Icon.png/revision/latest?cb=20210724000855"
         }
     },
     {
@@ -347,7 +347,7 @@
             "fire"
         ],
         "assets": {
-            "image": " "
+            "image": "https://static.wikia.nocookie.net/monsterhunterworld_gamepedia_en/images/e/ed/MHW_Kulve_Taroth_Icon.png/revision/latest/scale-to-width-down/250?cb=20190826171403"
         }
     },
     {
@@ -357,7 +357,7 @@
         "description": "An elder dragon that shields itself with fierce winds, preventing anyone from approaching it. Its skin consists of hard, metallic scales.",
         "elements": [],
         "assets": {
-            "image": " "
+            "image": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/mhw-kushala_daora_icon.png"
         }
     },
     {
@@ -369,7 +369,7 @@
             "fire"
         ],
         "assets": {
-            "image": " "
+            "image": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/mhw-lavasioth_icon.png"
         }
     },
     {
@@ -381,7 +381,7 @@
             "ice"
         ],
         "assets": {
-            "image": " "
+            "image": "https://i.pinimg.com/564x/7f/48/2f/7f482fa147f0635483785582a936a284.jpg"
         }
     },
     {
@@ -393,7 +393,7 @@
             "fire"
         ],
         "assets": {
-            "image": " "
+            "image": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/mhw-lunastra_icon2.png"
         }
     },
     {
@@ -403,7 +403,7 @@
         "description": "A terrible elder dragon that appears when other elders are in the vicinity. Its penchant for destruction is well documented.",
         "elements": [],
         "assets": {
-            "image": " "
+            "image": "https://static.wikia.nocookie.net/monsterhunter/images/4/4c/MHW-Nergigante_Icon.png/revision/latest?cb=20210724010228"
         }
     },
     {
@@ -413,7 +413,7 @@
         "description": "A terrifying monster that scours the Rotten Vale for carrion. Its highly aggressive nature means that anything, be it monster or man, is a potential meal.",
         "elements": [],
         "assets": {
-            "image": " "
+            "image": "https://static.wikia.nocookie.net/monsterhunter/images/8/81/MHN-Odogaron.png/revision/latest?cb=20240316232221"
         }
     },
     {
@@ -423,7 +423,7 @@
         "description": "Paolumu feast on eggs found in the Coral Highlands. They are able to propel through the air using unique sacs in their bodies, and attack with their extremely hard tails.",
         "elements": [],
         "assets": {
-            "image": " "
+            "image": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/mhw-paolumu_icon.png"
         }
     },
     {
@@ -433,7 +433,7 @@
         "description": "A gigantic brute wyvern that eats the bones of carcasses found in the Rotten Vale, using some of it as armor. It also rolls into a ball as a form of attack and transportation.",
         "elements": [],
         "assets": {
-            "image": " "
+            "image": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/mhw-radobaan_icon.png"
         }
     },
     {
@@ -445,7 +445,7 @@
             "fire"
         ],
         "assets": {
-            "image": " "
+            "image": "https://static.wikia.nocookie.net/monsterhunterworld_gamepedia_en/images/4/41/MHW_Rathalos_Icon.png/revision/latest/scale-to-width-down/250?cb=20190826171425"
         }
     },
     {
@@ -457,7 +457,7 @@
             "fire"
         ],
         "assets": {
-            "image": " "
+            "image": "https://cdn.kiranico.net/file/kiranico/mhworld-web/mhw/icon/em001_ID.png"
         }
     },
     {
@@ -469,7 +469,7 @@
             "fire"
         ],
         "assets": {
-            "image": " "
+            "image": "https://static.wikia.nocookie.net/monsterhunter/images/1/15/MHW-Pink_Rathian_Icon.png/revision/latest?cb=20210724001151"
         }
     },
     {
@@ -481,7 +481,7 @@
             "fire"
         ],
         "assets": {
-            "image": " "
+            "image": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/mhw-teostra_icon.png"
         }
     },
     {
@@ -491,7 +491,7 @@
         "description": "This odd monster blinds both prey and enemies with a special pulsing organ near its head. It then uses its strong legs to deliver finishing blows.",
         "elements": [],
         "assets": {
-            "image": " "
+            "image": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/mhw-tzitzi-ya-ku_icon2.png"
         }
     },
     {
@@ -503,7 +503,7 @@
             "fire"
         ],
         "assets": {
-            "image": " "
+            "image": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/mhw-uragaan_icon.png"
         }
     },
     {
@@ -513,7 +513,7 @@
         "description": "A grotesque Elder Dragon, that inhabits the deepest part of the Rotten Vale. It uses the fatal vapor of the vale in what appears to be a symbiotic relationship.",
         "elements": [],
         "assets": {
-            "image": " "
+            "image": "https://i.pinimg.com/564x/e7/c9/41/e7c941372ba16aa7e83b08576ade0575.jpg"
         }
     },
     {
@@ -525,7 +525,7 @@
             "dragon"
         ],
         "assets": {
-            "image": " "
+            "image": "https://static.wikia.nocookie.net/monsterhunter/images/e/e3/MHW-Xeno%27jiiva_Icon.png/revision/latest?cb=20210724010915"
         }
     },
     {
@@ -537,7 +537,7 @@
             "fire"
         ],
         "assets": {
-            "image": " "
+            "image": "https://static.wikia.nocookie.net/monsterhunter/images/1/16/MHW-Zorah_Magdaros_Icon.png/revision/latest?cb=20210724010935"
         }
     },
     {
@@ -547,7 +547,7 @@
         "description": "Dwelling deep inside the forest, these creatures use their innate magic to control all flora and fauna within their territory.",
         "elements": [],
         "assets": {
-            "image": " "
+            "image": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/mhw-leshen_icon.png"
         }
     },
     {
@@ -557,7 +557,7 @@
         "description": "An old leshen that arrived through a portal to assume control over the Ancient Forest. Sometimes revered as an indigenous deity.",
         "elements": [],
         "assets": {
-            "image": " "
+            "image": "https://static.wikia.nocookie.net/monsterhunter/images/7/71/MHW-Ancient_Leshen_Icon.png/revision/latest?cb=20210724004143"
         }
     },
     {
@@ -570,7 +570,7 @@
             "dragon"
         ],
         "assets": {
-            "image": " "
+            "image": "https://static.wikia.nocookie.net/monsterhunter/images/f/fa/MHWI-Safi%27jiiva_Icon.png/revision/latest?cb=20210724012238"
         }
     },
     {
@@ -582,7 +582,7 @@
             "dragon"
         ],
         "assets": {
-            "image": " "
+            "image": "https://preview.redd.it/ax891ko4qni31.jpg?width=640&crop=smart&auto=webp&s=513a406b5218dba4dab20b364b68008e45cb638f"
         }
     },
     {
@@ -594,7 +594,7 @@
             "thunder"
         ],
         "assets": {
-            "image": " "
+            "image": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/mhwi-rajang_icon.png"
         }
     },
     {
@@ -604,7 +604,7 @@
         "description": "The tail of this subspecies secretes a toxin while its fangs paralyze prey. It can also glide without climbing trees.",
         "elements": [],
         "assets": {
-            "image": " "
+            "image": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/gthumbnails/mhwi-viper_tobi-kadachi_icon.png"
         }
     },
     {
@@ -617,7 +617,7 @@
             "thunder"
         ],
         "assets": {
-            "image": " "
+            "image": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/mhwi-namielle_icon.png"
         }
     },
     {
@@ -629,7 +629,7 @@
             "thunder"
         ],
         "assets": {
-            "image": " "
+            "image": "https://cdn.kiranico.net/file/kiranico/mhworld-web/mhw/icon/em057_ID.png"
         }
     }
 ]
