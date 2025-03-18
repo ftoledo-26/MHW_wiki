@@ -22,34 +22,64 @@
  }
  
  #monster{
-     min-height: 100vh;
-     position: relative;
- 
- }
- 
- main{
-     display: flex;
-     flex-direction: column;
-     justify-content: center;
-     align-items: center;
-     grid-template-rows: repeat(2, 1fr);
- }
- 
- 
- 
- video{
-     position: absolute;
-     top: 0;
-     left: 0;
-     width: 100%;
-     height: 100%;
-     object-fit: cover;
-     opacity: 0.5;
- }
- 
- .db-image{
-    width: 200px;
-    height: 120px;
+    min-height: 100vh;
+    position: relative;
+
+}
+
+
+
+main{
+   display: flex;
+   flex-direction: row;
+   justify-content:space-between;
+}
+
+.contenido{
+   display: flex;
+   flex-direction: column;
+   justify-content: center;
+   align-items: center;
+   width: 80%;
+   margin: 0 auto;
+   padding: 20px;
+   grid-template-rows: repeat(2, 3fr);
+}
+
+
+video{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    opacity: 0.5;
+}
+
+nav {
+   background-color: #F1F1F1;
+   padding: 20px   ;
+   width: 20%;
+   box-shadow: 2px 0 5px rgba(0,0,0,0.1);
+   
+}
+
+ul{
+   list-style-type: none;
+   padding: 0;
+}
+
+li{
+   display: flex;
+   padding: 10px;
+   cursor: pointer;
+   align-items: center;
+}
+
+.db-image{
+   width: 200px;
+   height: 120px;
 }
 
  .capa{
