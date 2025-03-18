@@ -30,7 +30,7 @@ function mostrarMonstruos() {
         return response.json();
     })
     .then(data => {
-        console.log(data);  // Verifica los datos
+        console.log(data); // Verifica los datos
         let ocupa = document.getElementById("monster_container");
         ocupa.innerHTML = data.map(monstruo => {
             return `
@@ -61,5 +61,4 @@ function mostrarMonstruos() {
 document.addEventListener("DOMContentLoaded", function () {
     mostrarMonstruos(); // Llamas a la función después de que el DOM esté listo
 });
-
 
