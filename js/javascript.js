@@ -35,7 +35,7 @@ function mostrarMonstruos() {
         ocupa.innerHTML = data.map(monstruo => {
             return `
                 <div class="tarjeta-normal">
-                    <h1></h1>
+                    <h1>${monstruo.name}</h1>
                     <div>
                         <img src="../imagenes/logo.png" alt="">
                     </div>
@@ -59,6 +59,6 @@ function mostrarMonstruos() {
     });
 }
 document.addEventListener("DOMContentLoaded", function () {
-    mostrarMonstruos(); // Llamas a la función después de que el DOM esté listo
+    mostrarMonstruos(); 
 });
 
