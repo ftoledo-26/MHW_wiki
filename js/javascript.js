@@ -1,6 +1,7 @@
 //Principal para el funcionamiento del  main
 
 
+
 //Idea principal:
 //Barra de busqueda tiene que mostrar algo parecido a esto (Search:) y cuando se pinche que canbie a (ej: monstruo/nombremounstruo) 
 // y que printee los nombres parecidos
@@ -19,10 +20,10 @@
 
 
 const PORT = 3001;
-const habitat = document.getElementById("monster_main");
-
+const URL_actual = window.location.href
 function mostrarMonstruos() {
     let ocupa = document.getElementById("monster_container");
+
     ocupa.innerHTML = "";  // Limpiar el contenedor
 
     fetch(`http://localhost:3001/Monstruos`)
@@ -55,10 +56,12 @@ function mostrarMonstruos() {
                     </div>
                     <div>
                         <strong>Clasificación:</strong>
+                       
                         <span>${monstruo.species || 'Desconocida'}</span> <!-- Usamos 'species' como clasificación -->
                     </div>
                     <div>
                         <strong>Elemento(s):</strong>
+                        
                         <span>${elementos}</span> <!-- Muestra los elementos o un texto alternativo -->
                     </div>
                     <div>
@@ -77,8 +80,15 @@ function mostrarMonstruos() {
 
 
 
-
+if(URL_actual.includes("monstruos.html"))
+{
     addEventListener("DOMContentLoaded", function () {
         mostrarMonstruos();
     });
+}
+elseif(URL_actual.includes("armaduras.html"))
+{
+    
+}
+    
 
