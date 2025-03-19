@@ -1,5 +1,6 @@
 //Principal para el funcionamiento del  main
 
+
 //Idea principal:
 //Barra de busqueda tiene que mostrar algo parecido a esto (Search:) y cuando se pinche que canbie a (ej: monstruo/nombremounstruo) 
 // y que printee los nombres parecidos
@@ -17,12 +18,14 @@
 //manteniendo el click
 
 
-const PORT = 3000;
+const PORT = 3001;
 const habitat = document.getElementById("monster_main");
 
 function mostrarMonstruos() {
-    habitat.innerHTML = "";
-    fetch(`http://localhost:3000/Monstruos`)
+    let ocupa = document.getElementById("monster_container");
+    ocupa.innerHTML = "";  // Limpiar el contenedor
+
+    fetch(`http://localhost:3001/Monstruos`)
     .then(response => {
         if (!response.ok) {
             throw new Error("Network response was not ok");
@@ -30,25 +33,36 @@ function mostrarMonstruos() {
         return response.json();
     })
     .then(data => {
-        console.log(data); // Verifica los datos
-        let ocupa = document.getElementById("monster_container");
+        console.log(data); // Verifica los datos obtenidos
+
+        
+        // Verifica si 'ocupa' es null (es decir, el elemento no existe)
+        if (!ocupa) {
+            console.error("No se encuentra el contenedor con id 'monster_container'");
+            return;
+        }
+
+        // Renderiza los monstruos dentro de 'monster_container'
         ocupa.innerHTML = data.map(monstruo => {
+            // Verifica si 'elements' es un array no vacío
+            const elementos = monstruo.elements.length > 0 ? monstruo.elements.join(', ') : 'No tiene elementos';
+
             return `
                 <div class="tarjeta-normal">
-                    <h1></h1>
+                    <h1>${monstruo.name}</h1>
                     <div>
-                        <img src="../imagenes/logo.png" alt="">
+                        <img src="${monstruo.assets.image}" alt="Imagen de ${monstruo.name}">
                     </div>
                     <div>
                         <strong>Clasificación:</strong>
-                        <span></span>
+                        <span>${monstruo.species || 'Desconocida'}</span> <!-- Usamos 'species' como clasificación -->
                     </div>
                     <div>
                         <strong>Elemento(s):</strong>
-                        <span>sfd</span>
+                        <span>${elementos}</span> <!-- Muestra los elementos o un texto alternativo -->
                     </div>
                     <div>
-                        <p>sdf</p>
+                        <p>${monstruo.description || 'Descripción no disponible'}</p> <!-- Ajusta si no hay descripción -->
                     </div>
                 </div>
             `;
@@ -58,7 +72,13 @@ function mostrarMonstruos() {
         console.error('Error al cargar los monstruos:', error);
     });
 }
-document.addEventListener("DOMContentLoaded", function () {
-    mostrarMonstruos(); // Llamas a la función después de que el DOM esté listo
-});
+
+
+
+
+
+
+    addEventListener("DOMContentLoaded", function () {
+        mostrarMonstruos();
+    });
 
