@@ -69,12 +69,27 @@ nav {
     width: 70%;
     height: 95.6%;
     box-shadow: 2px 0 5px rgba(0, 0, 0, 0.1);
-    color: #b33c00;
+}
+
+a{
+    color: #d7d24f;
+    text-decoration: none;  
+    filter: brightness(1.5) drop-shadow(0 0 10px #ffffff);
 }
 
 ul{
    list-style-type: none;
    padding: 0;
+   display: flex;
+   justify-content: space-between
+
+}
+
+.uno .dos{
+    list-style-type: none;
+   padding: 0;
+   display: flex;
+   
 }
 
 li{
@@ -82,6 +97,11 @@ li{
    padding: 10px;
    cursor: pointer;
    align-items: center;
+}
+
+.logo-armas{
+    max-width: 20px;
+    max-height: 20px;
 }
 
 .db-image{
@@ -103,9 +123,7 @@ li{
  .monstruos{
      position: relative;
      z-index: 2;
-     background-color: #999999
-     ;
- 
+     background-color: #999999;
      border-radius: 5px;
      padding: 5px;
      margin: 5px;

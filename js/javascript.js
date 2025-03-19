@@ -21,6 +21,12 @@
 
 const PORT = 3001;
 const URL_actual = window.location.href
+
+function mostrarArmaduras(){
+    
+}
+
+
 function mostrarMonstruos() {
     let ocupa = document.getElementById("monster_container");
 
@@ -88,7 +94,7 @@ if(URL_actual.includes("monstruos.html"))
 }
 elseif(URL_actual.includes("armaduras.html"))
 {
-    
+
 }
     
 
