@@ -27,23 +27,29 @@
 
 }
 
+header{
+    background-color: #162555;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 10px 10px;
+    
+}
 
 
 main{
    display: flex;
    flex-direction: row;
-   justify-content:space-between;
 }
 
 .contenido{
    display: flex;
    flex-direction: column;
    justify-content: center;
-   align-items: center;
    width: 80%;
    margin: 0 auto;
    padding: 20px;
-   grid-template-rows: repeat(2, 3fr);
 }
 
 
@@ -58,11 +64,14 @@ video{
 }
 
 nav {
-   background-color: #F1F1F1;
-   padding: 20px   ;
-   width: 20%;
-   box-shadow: 2px 0 5px rgba(0,0,0,0.1);
-   
+    position: relative;
+    z-index: 2;
+    background-color: #162555;
+    padding: 20px;
+    width: 70%;
+    height: 100%;
+    box-shadow: 2px 0 5px rgba(0, 0, 0, 0.1);
+    color: #b33c00;
 }
 
 ul{
