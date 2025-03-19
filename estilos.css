@@ -187,11 +187,12 @@
 .tarjeta-armadura{
     justify-content: center;
     text-align: center;
-    border: 1px solid black;
+    border: 8px solid rgb(134, 12, 12);
     border-radius: 10px;
     margin: 20px;
-    background-color: #999999;
+    background-color: rgb(33, 28, 27 , 0.8);
 }
+
 .contenedor-armadura{
     display: grid;
     grid-template-columns: repeat(1, 1fr);
@@ -205,9 +206,10 @@
 .tarjeta-pieza{
     justify-content: center;
     text-align: center;
-    border: 1px solid black;
-    border-radius: 10px;
+    border: 8px solid transparent;
+    border-image: url(/imagenes/madera.jpg) 30 round;
     margin: 20px;
+    background-image: url(/imagenes/cuero_tablon.jpg);
 }
 .contenedor-set{
     display: grid;
