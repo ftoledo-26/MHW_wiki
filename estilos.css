@@ -17,6 +17,7 @@
  * {
      margin:0px;
      padding:0px;
+     max-width: 100%;
  }
  
  #monster{
@@ -162,9 +163,26 @@ li{
     padding: 0;
     background-image: url(https://clan.cloudflare.steamstatic.com/images/33171098/388784334ed7611ea3a3bfff1054579b895b8a14.jpg);
     background-size: cover;
-    color: white;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-position: center;
 }
  
+ /* Estilos para la pagina de monstruos */ 
+.monstruos-background{
+    background-color: #006600;
+    width: auto;
+    height: auto;
+    margin: 0 auto;
+    padding: 0;
+    background-image: url(https://i.imgur.com/8cV82VJ.jpg/);
+    background-size: cover;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-position: center;
+    color: white;
+}
+
  /* Estilos para la pagina de objetos */
  .objetos-background{
     background-color: #006666;
@@ -233,15 +251,35 @@ li{
   .tarjeta-normal{
     justify-content: center;
     text-align: center;
-    border: 1px solid black;
+    border: 8px solid rgb(134, 12, 12);
     border-radius: 10px;
     margin: 20px;
+    background-color: rgb(33, 28, 27 , 0.8);
 }
 .contenedor-normal{
     display: grid;
-    grid-template-columns: repeat(3, 1fr);
+    grid-template-columns: repeat( 3, 1fr);
     gap: 10px;
+    flex-direction: row;
 }
+@media (max-width: 1024px){
+    .contenedor-normal{
+        display: grid;
+        grid-template-columns: repeat( 2, 1fr);
+        gap: 10px;
+        flex-direction: row;
+    }
+}
+@media (max-width: 768px){
+    .contenedor-normal{
+        display: grid;
+        grid-template-columns: repeat( 1, 1fr);
+        gap: 10px;
+        flex-direction: column;
+    }
+}
+
+
 .tarjeta-armadura{
     justify-content: center;
     text-align: center;
@@ -265,9 +303,9 @@ li{
     justify-content: center;
     text-align: center;
     border: 8px solid transparent;
-    border-image: url(/imagenes/madera.jpg) 30 round;
+    border-image: url(imagenes/madera.jpg) 30 round;
     margin: 20px;
-    background-image: url(/imagenes/cuero_tablon.jpg);
+    background-image: url(imagenes/cuero_tablon.jpg);
 }
 .contenedor-set{
     display: grid;
