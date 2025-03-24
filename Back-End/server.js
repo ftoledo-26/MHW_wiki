@@ -14,8 +14,12 @@ const Lugares = "Lugares"
 const Armaduras = "Armaduras"
 const Items = "Items"
 
+
+
 app.use(cors());
 app.use(express.json());
+
+ 
 
 async function conectarUsuariosDB() {
     const client = new MongoClient(MONGOURL); // Creamos un nuevo cliente de MongoDB
@@ -55,8 +59,6 @@ app.get("/Monstruos", async(req,res) =>{
 
         if(req.query.name)
             filtro.name = {$regex: req.query.name, $options: "i" }
-        else if(req.query.species)
-            filtro.species = {$regex: req.query.species, $options: "i" }
 
         const usuarios = await collection.find(filtro).toArray();
         res.json(usuarios)
