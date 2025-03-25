@@ -14,7 +14,7 @@ try:
 
         # Luego creo la api y la meto en las tablas y creo el script para que se ejecute en el servidor 
         for monster in monsters:
-            database[i.capitalize].insert_one(monster)
+            database^[i.capitalize()].insert_one(monster)
         # os.remove("monsters.json")
     # database['Armadura'].insert_one({"nombre": "Armadura Rathalos", "defensa": 50})
         #database['Arma'].insert_one({"nombre": "Espada Llamarada", "ataque": 120})

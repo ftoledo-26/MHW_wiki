@@ -60,9 +60,6 @@ app.get("/Monstruos", async(req,res) =>{
         if(req.query.name)
             filtro.name = {$regex: req.query.name, $options: "i" }
 
-        const usuarios = await collection.find(filtro).toArray();
-        res.json(usuarios)
-
 }catch (error) { console.error("Error consultando MongoDB:", error); // Mostramos el error en la consola
     res.status(500).json({ error: "Error al obtener los datos." }); // Enviamos un error 500 al frontend
 }
