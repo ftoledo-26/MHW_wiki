@@ -63,6 +63,17 @@ app.get("/Monstruos", async (req, res) => {
     }
 });
 
+app.get("/Armas", async (req , res)=>{
+    try {
+        const collection = await conectarArmasDB();
+        const Armas = await collection.find({}).toArray();
+        res.json(Armas)
+    }catch(error){
+        console.error("Error al conectar las armas")
+        res.status(500).json({error: "Error al obtener los datos"})
+    }
+})
+
 //////////////////////////////////////Agonizaaaaaaaaaaaaaaaaaaaaaa
 app.listen(PORT, () => {
     console.log(`Servidor corriendo en http://localhost:${PORT}`); // Confirmación en la consola
