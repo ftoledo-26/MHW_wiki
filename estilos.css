@@ -61,6 +61,7 @@ main{
    margin-bottom: 15px;
    height: 70%;
    max-height: 70%;
+   flex-grow: 1;
 }
 
 .contenido{
