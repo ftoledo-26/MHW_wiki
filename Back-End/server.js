@@ -48,25 +48,32 @@ async function conectarArmasDB() {
 async function conectarMonstruosDB() {
         const client = new MongoClient(MONGOURL); // Creamos un nuevo cliente de MongoDB
         await client.connect(); // Nos conectamos al servidor de MongoDB
-        console.log("Conectado a MongoDB"); // Confirmamos la conexión en la consola
+        console.log("Conectado a Monstruo"); // Confirmamos la conexión en la consola
         return client.db(nombre_BD).collection(Monstruos); // Devolvemos la colección "usuario" dentro de la BD "BD_usuarios"
 }
 
-app.get("/Monstruos", async(req,res) =>{
-    try{
+app.get("/Monstruos", async (req, res) => {
+    try {
         const collection = await conectarMonstruosDB();
-        let filtro = {};
+        const monstruos = await collection.find({}).toArray();
+        res.json(monstruos);  // Enviar los datos como respuesta JSON
+    } catch (error) {
+        console.error("Error al obtener los monstruos:", error);
+        res.status(500).json({ error: "Error al obtener los datos." });
+    }
+});
 
-        if(req.query.name)
-            filtro.name = {$regex: req.query.name, $options: "i" }
-
-        const usuarios = await collection.find(filtro).toArray();
-        res.json(usuarios)
-
-}catch (error) { console.error("Error consultando MongoDB:", error); // Mostramos el error en la consola
-    res.status(500).json({ error: "Error al obtener los datos." }); // Enviamos un error 500 al frontend
-}
+app.get("/Armas", async (req , res)=>{
+    try {
+        const collection = await conectarArmasDB();
+        const Armas = await collection.find({}).toArray();
+        res.json(Armas)
+    }catch(error){
+        console.error("Error al conectar las armas")
+        res.status(500).json({error: "Error al obtener los datos"})
+    }
 })
+
 //////////////////////////////////////Agonizaaaaaaaaaaaaaaaaaaaaaa
 app.listen(PORT, () => {
     console.log(`Servidor corriendo en http://localhost:${PORT}`); // Confirmación en la consola
