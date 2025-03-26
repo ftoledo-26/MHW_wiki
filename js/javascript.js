@@ -59,21 +59,23 @@ function mostrarMonstruos() {
             return `
                 <div class="tarjeta-normal">
                     <h1>${monstruo.name}</h1>
-                    <div>
+                    <div class="imagen_contenedor">
                         <img src="${monstruo.assets.image}" alt="Imagen de ${monstruo.name}">
                     </div>
-                    <div>
-                        <strong>Clasificación:</strong>
-                       
-                        <span>${monstruo.species || 'Desconocida'}</span> <!-- Usamos 'species' como clasificación -->
-                    </div>
-                    <div>
-                        <strong>Elemento(s):</strong>
+                    <div class="textos_contenedor">
+                        <div>
+                            <strong>Clasificación:</strong>
                         
-                        <span>${elementos}</span> <!-- Muestra los elementos o un texto alternativo -->
-                    </div>
-                    <div>
-                        <p>${monstruo.description || 'Descripción no disponible'}</p> <!-- Ajusta si no hay descripción -->
+                            <span>${monstruo.species || 'Desconocida'}</span> <!-- Usamos 'species' como clasificación -->
+                        </div>
+                        <div>
+                            <strong>Elemento(s):</strong>
+                            
+                            <span>${elementos}</span> <!-- Muestra los elementos o un texto alternativo -->
+                        </div>
+                        <div>
+                            <p>${monstruo.description || 'Descripción no disponible'}</p> <!-- Ajusta si no hay descripción -->
+                        </div>
                     </div>
                 </div>
             `;
@@ -134,6 +136,7 @@ if(URL_actual.includes("monstruos.html"))
         mostrarMonstruos();
     });
 }
+<<<<<<< HEAD
 else if(URL_actual.includes("armas.html"))
 {
     addEventListener("DOMContentLoaded", function (){
@@ -141,4 +144,7 @@ else if(URL_actual.includes("armas.html"))
     })
 }
     
+=======
+
+>>>>>>> 8b4a7de32db59ca5528295b3fe9e28b0a1708078
 

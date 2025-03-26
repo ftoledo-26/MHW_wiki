@@ -167,6 +167,10 @@ li{
     background-repeat: no-repeat;
     background-position: center;
 }
+
+.h1-armadura{
+    color: white;
+}
  
  /* Estilos para la pagina de monstruos */ 
 .monstruos-background{
@@ -248,13 +252,24 @@ li{
 }
 
   /* Los contenedores de las paginas */
-  .tarjeta-normal{
+.tarjeta-normal{
     justify-content: center;
     text-align: center;
     border: 8px solid rgb(134, 12, 12);
     border-radius: 10px;
     margin: 20px;
     background-color: rgb(33, 28, 27 , 0.8);
+    display: flex;
+    flex-direction: column;
+}
+
+.textos_contenedor{
+    margin-bottom: 10px;
+    align-self: flex-end;
+}
+.imagen_contenedor{
+    padding: 0.2rem 2rem 2rem;
+    flex-grow: 1;
 }
 .contenedor-normal{
     display: grid;
