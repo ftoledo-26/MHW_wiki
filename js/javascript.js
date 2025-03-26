@@ -2,6 +2,7 @@
 
 
 
+
 //Idea principal:
 //Barra de busqueda tiene que mostrar algo parecido a esto (Search:) y cuando se pinche que canbie a (ej: monstruo/nombremounstruo) 
 // y que printee los nombres parecidos
@@ -21,6 +22,7 @@
 
 const PORT = 3001;
 const URL_actual = window.location.href
+
 
 function mostrarArmaduras(){
     
@@ -84,7 +86,47 @@ function mostrarMonstruos() {
     });
 }
 
+function mostrarArmas(){
+    let ocupa = document.getElementById("container_armas")
 
+    fetch(`http://localhost:3001/Armas`)
+    .then(response => {
+        if (!response.ok) {
+            throw new Error("Network response was not ok");
+        }
+        return response.json();
+    })
+    .then(data => {
+        if(!ocupa){
+           console.error("No se encuentra el contenedor con id 'monster_container'");
+            return; 
+        }
+        ocupa.innerHTML =""
+        ocupa.innerHTML = data.map(armas => {
+            return `
+                    <div class="tarjeta-normal">
+                    <h1>${armas.name}</h1>
+                    <div>
+                        <img src="${armas.assets.image}" alt="imagen de ${armas.name}">
+                    </div>
+                    <div>
+                        <th>Tipo</th>
+                        <td>${armas.type}</td>
+                    </div>
+                    <div>
+                        <th>Elementos</th>
+                        <td>tipo-elementos</td>
+                    </div>
+                    <div>
+                        <th>Daño</th>
+                        <td>${armas.attack.display}</td>
+                    </div>
+                </div> 
+            `;
+
+        }).join('');
+    })
+}
 
 
 
@@ -94,5 +136,15 @@ if(URL_actual.includes("monstruos.html"))
         mostrarMonstruos();
     });
 }
+<<<<<<< HEAD
+else if(URL_actual.includes("armas.html"))
+{
+    addEventListener("DOMContentLoaded", function (){
+        mostrarArmas();
+    })
+}
+    
+=======
 
+>>>>>>> 8b4a7de32db59ca5528295b3fe9e28b0a1708078
 
