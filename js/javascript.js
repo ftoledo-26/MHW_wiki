@@ -136,7 +136,6 @@ if(URL_actual.includes("monstruos.html"))
         mostrarMonstruos();
     });
 }
-<<<<<<< HEAD
 else if(URL_actual.includes("armas.html"))
 {
     addEventListener("DOMContentLoaded", function (){
@@ -144,7 +143,4 @@ else if(URL_actual.includes("armas.html"))
     })
 }
     
-=======
-
->>>>>>> 8b4a7de32db59ca5528295b3fe9e28b0a1708078
 
