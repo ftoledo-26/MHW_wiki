@@ -1,4 +1,24 @@
-//Principal para el funcionamiento del  main
+const { MongoClient } = require('mongodb');
+
+
+const botonUsuario = document.getElementById("boton_usuario");
+
+function AñadirUsuario(){
+    let user = document.getElementById("Usuario").value;
+    let pass = document.getElementById("contraseña").value;
+
+    ("/User", async (req, res) => {
+        try{
+            const collection = await conectarUsuariosDB();
+            const usuario = await collection.insertOne({user: user, pass: pass , permisos: "Usuario"});
+            res.json(usuario);
+        
+        }catch(error){
+            console.error("Error al añadir usuario", error);
+            res.status(500).json({error: "Error al añadir usuario"});
+        }
+    })
+
 
 
 
@@ -128,6 +148,13 @@ function mostrarArmas(){
     })
 }
 
+async function AniadirUser(){
+    
+   
+
+
+}
+
 
 
 if(URL_actual.includes("monstruos.html"))
@@ -142,5 +169,9 @@ else if(URL_actual.includes("armas.html"))
         mostrarArmas();
     })
 }
-    
-
+else if(URL_actual.includes("Usuario.html"))
+{
+    botonUsuario.addEventListener("click", function(){
+        AñadirUsuario();
+    })
+}};

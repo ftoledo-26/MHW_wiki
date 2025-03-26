@@ -2,9 +2,8 @@ from pymongo import MongoClient
 import json
 import os
 
-ListaJSON = ["monstruos", "armaduras", "armas", "lugares", "items"]
-ListasURL = ["https://mhw-db.com/monsters", "https://mhw-db.com/armor", "https://mhw-db.com/weapons",
-                "https://mhw-db.com/skills", "https://mhw-db.com/items"]
+ListaJSON = ["monstruos", "armaduras", "armas", "lugares", "items","user"]
+
 
 try:
     for i in ListaJSON:
