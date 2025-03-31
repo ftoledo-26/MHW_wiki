@@ -150,4 +150,4 @@ else if(URL_actual.includes("Usuario.html"))
     botonUsuario.addEventListener("click", function(){
         AñadirUsuario();
     })
-}};
+};
