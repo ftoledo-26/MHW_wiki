@@ -1,27 +1,3 @@
-const { MongoClient } = require('mongodb');
-
-
-const botonUsuario = document.getElementById("boton_usuario");
-
-function AñadirUsuario(){
-    let user = document.getElementById("Usuario").value;
-    let pass = document.getElementById("contraseña").value;
-
-    ("/User", async (req, res) => {
-        try{
-            const collection = await conectarUsuariosDB();
-            const usuario = await collection.insertOne({user: user, pass: pass , permisos: "Usuario"});
-            res.json(usuario);
-        
-        }catch(error){
-            console.error("Error al añadir usuario", error);
-            res.status(500).json({error: "Error al añadir usuario"});
-        }
-    })
-
-
-
-
 
 //Idea principal:
 //Barra de busqueda tiene que mostrar algo parecido a esto (Search:) y cuando se pinche que canbie a (ej: monstruo/nombremounstruo) 

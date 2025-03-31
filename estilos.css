@@ -1,4 +1,12 @@
- /* Estilos para el index */
+body{
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+}
+
+/* Estilos para el index */
  
  
  
@@ -26,24 +34,59 @@
 
 }
 
+body{
+    background-color: #162555;
+}
+
 header{
     background-color: #162555;
     display: flex;
     flex-direction: row;
     justify-content: space-between;
     align-items: center;
+    height: 20%;
     padding: 10px 10px 10px;
+    
+}
+
+input{
+    padding: 5px;
+    font-size: 1em;
+    width: 300px;
+    border: 1px solid #CCC;
+    border-radius: 2px;
+}
+
+.lupa{
+    width: 20px;
     
 }
 
 
 main{
-   display: flex;
-   flex-direction: row;
+    display: flex;
+    flex-direction: row;
+    margin-bottom: 15px;
+    height: 70%;
+    max-height: 70%;
+    flex-grow: 1;
+    padding: 0px;
+    margin: 0px;
+    min-width: 100%;
+}
+
+.main_jose{
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 15px;
+    flex-grow: 1;
+    padding: 0px;
+    margin: 0px;
+    min-width: 100%;
 }
 
 .contenido{
-   display: flex;
+    display: flex;
    flex-direction: column;
    justify-content: center;
    width: 80%;
@@ -68,7 +111,7 @@ nav {
     background-color: #162555;
     padding: 20px;
     width: 70%;
-    height: 95.6%;
+    height: 96%;
     box-shadow: 2px 0 5px rgba(0, 0, 0, 0.1);
 }
 
@@ -98,6 +141,12 @@ li{
    padding: 10px;
    cursor: pointer;
    align-items: center;
+}
+
+footer{
+    height: 10%;
+    z-index: 5;
+    background-color: #162555;
 }
 
 .logo-armas{
@@ -186,14 +235,11 @@ li{
     background-position: center;
     color: white;
 }
-
- /* Estilos para la pagina de objetos */
- .objetos-background{
-    background-color: #006666;
+.footer_monstruo{
+    text-align: center;
+    background-color: #162555;
+    color: white;
     width: 100%;
-    height: 100%;
-    margin: 0 auto;
-    padding: 0;
 }
  
  /*Estilos Inicio sesion*/
