@@ -1,7 +1,3 @@
-//Principal para el funcionamiento del  main
-
-
-
 
 //Idea principal:
 //Barra de busqueda tiene que mostrar algo parecido a esto (Search:) y cuando se pinche que canbie a (ej: monstruo/nombremounstruo) 
@@ -23,10 +19,6 @@
 const PORT = 3001;
 const URL_actual = window.location.href
 
-
-function mostrarArmaduras(){
-    
-}
 
 
 function mostrarMonstruos() {
@@ -86,8 +78,10 @@ function mostrarMonstruos() {
     });
 }
 
+
 function mostrarArmas(){
-    let ocupa = document.getElementById("container_armas")
+    let ocupa = document.getElementById("contenedor-armadura");
+    ocupa.innerHTML = "";
 
     fetch(`http://localhost:3001/Armas`)
     .then(response => {
@@ -128,6 +122,88 @@ function mostrarArmas(){
     })
 }
 
+function mostrarArmaduras(){
+    let ocupa = document.getElementById("contenedor-armadura");
+
+    fetch(`http://localhost:3001/Armaduras`)
+    .then(response => {
+        if (!response.ok) {
+            throw new Error("Network response was not ok");
+        }
+        return response.json();
+    })
+    .then(data => {
+        if (!ocupa) {
+            console.error("No se encuentra el contenedor con id 'contenedor-armadura'");
+            return;
+        }
+        ocupa.innerHTML = ""; // Clear the container before appending
+        ocupa.innerHTML = data.map(armadura => {
+            return `
+                <div class="tarjeta-armadura">
+                    <h1 class="h1-armadura">${armadura.name}</h1>
+                    <div class="contenedor-pieza">
+                        ${armadura.pieces.map(pieza => `
+                            <div class="tarjeta-pieza">
+                                <h2>${pieza.name}</h2>
+                                <p>Tipo: ${pieza.type}</p>
+                                <div>
+                                    <img src="${pieza.assets.imageMale || ''}" alt="Imagen masculina de ${pieza.name}">
+                                    <img src="${pieza.assets.imageFemale || ''}" alt="Imagen femenina de ${pieza.name}">
+                                </div>
+                            </div>
+                        `).join('')}
+                    </div>
+                </div>
+            `;
+        }).join('');
+    })
+    .catch(error => {
+        console.error('Error al cargar las armaduras:', error);
+    });
+}
+
+async function anadirUsuario(nombre, email) {
+    // Validar los campos de entrada
+    if (!nombre || !email) {
+        alert("El nombre y el correo electrónico son obligatorios.");
+        return;
+    }
+
+    const url = 'http://localhost:3001/User'; 
+    const data = {
+        nombre: nombre,
+        email: email,
+        rol: "Usuario", // Asignar rol "Usuario" por defecto
+    };
+
+    try {
+        // Hacer la solicitud POST al backend
+        const response = await fetch(url, {
+            method: 'POST',
+            headers: {
+                'Content-Type': 'application/json',
+            },
+            body: JSON.stringify(data),
+        });
+
+        // Verificar si la respuesta es exitosa
+        if (response.ok) {
+            const result = await response.json();
+            console.log('Usuario creado con éxito:', result);
+            alert("Usuario añadido correctamente.");
+        } else {
+            const error = await response.text(); // Capturar el mensaje de error como texto
+            console.error('Error al crear el usuario:', error);
+            alert("Hubo un error al crear el usuario. Inténtalo de nuevo.");
+        }
+    } catch (error) {
+        // Manejo de errores si la solicitud falla
+        console.error('Error en la solicitud:', error);
+        alert("Error en la solicitud al servidor. Inténtalo de nuevo.");
+    }
+}
+
 
 
 if(URL_actual.includes("monstruos.html"))
@@ -142,5 +218,18 @@ else if(URL_actual.includes("armas.html"))
         mostrarArmas();
     })
 }
-    
 
+else if (URL_actual.includes("armaduras.html")){
+    addEventListener("DOMContentLoaded", function () {
+        mostrarArmaduras();
+    });
+}else if(URL_actual.includes("Usuario.html")){
+    let botonAñadir = document.getElementById("boton_usuario");
+
+    botonAñadir.addEventListener("click", function(){
+        let nombre = document.getElementById("Usuario").value;
+        let email = document.getElementById("contraseña").value;
+        anadirUsuario(nombre, email);
+        alert("Usuario añadido correctamente"+ nombre + " " + email);
+    })
+}
