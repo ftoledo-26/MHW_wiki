@@ -49,6 +49,10 @@ header{
     
 }
 
+rathalos-boton{
+    background-color: none;
+}
+
 input{
     padding: 5px;
     font-size: 1em;
@@ -57,8 +61,13 @@ input{
     border-radius: 2px;
 }
 
+.busqueda{
+    display: flex;
+    justify-content: space-between;
+}
+
 .lupa{
-    width: 20px;
+    width: 25px;
     
 }
 
@@ -69,11 +78,8 @@ main{
    margin-bottom: 15px;
    height: 70%;
    max-height: 70%;
-<<<<<<< HEAD
    flex-grow: 1;
-=======
     flex-grow: 1;
->>>>>>> 8bfdf2c62af55d47c283d6198c8d754d76e4c3ac
 }
 
 .contenido{
