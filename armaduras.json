@@ -7223,7 +7223,7 @@
                 "name": "Vaal Hazak Helm Gamma",
                 "type": "head",
                 "assets": {
-                    "imageMale": "No disponible",
+                    "imageMale": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/vaal-hazak-helm-gamma-mhw-wiki-guide.png",
                     "imageFemale": "No disponible"
                 }
             },
@@ -7232,7 +7232,7 @@
                 "name": "Vaal Hazak Mail Gamma",
                 "type": "chest",
                 "assets": {
-                    "imageMale": "No disponible",
+                    "imageMale": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/vaal-hazak-mail-gamma-mhw-wiki-guide.png",
                     "imageFemale": "No disponible"
                 }
             },
@@ -7241,7 +7241,7 @@
                 "name": "Vaal Hazak Braces Gamma",
                 "type": "gloves",
                 "assets": {
-                    "imageMale": "No disponible",
+                    "imageMale": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/vaal-hazak-vambraces-gamma-mhw-wiki-guide.png",
                     "imageFemale": "No disponible"
                 }
             },
@@ -7250,7 +7250,7 @@
                 "name": "Vaal Hazak Coil Gamma",
                 "type": "waist",
                 "assets": {
-                    "imageMale": "No disponible",
+                    "imageMale": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/vaal-hazak-coil-gamma-mhw-wiki-guide.png",
                     "imageFemale": "No disponible"
                 }
             },
@@ -7259,7 +7259,7 @@
                 "name": "Vaal Hazak Greaves Gamma",
                 "type": "legs",
                 "assets": {
-                    "imageMale": "No disponible",
+                    "imageMale": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/vaal-hazak-greaves-gamma-mhw-wiki-guide.png",
                     "imageFemale": "No disponible"
                 }
             }
@@ -7274,8 +7274,8 @@
                 "name": "Drachen Armet Alpha",
                 "type": "head",
                 "assets": {
-                    "imageMale": "No disponible",
-                    "imageFemale": "No disponible"
+                    "imageMale": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/drachen_armet_alpha_male.png",
+                    "imageFemale": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/drachen_armet_alpha_female.png"
                 }
             },
             {
@@ -7283,8 +7283,8 @@
                 "name": "Drachen Mail Alpha",
                 "type": "chest",
                 "assets": {
-                    "imageMale": "No disponible",
-                    "imageFemale": "No disponible"
+                    "imageMale": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/drachen_mail_alpha_male.png",
+                    "imageFemale": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/drachen_mail_alpha_female.png"
                 }
             },
             {
@@ -7292,8 +7292,8 @@
                 "name": "Drachen Vambraces Alpha",
                 "type": "gloves",
                 "assets": {
-                    "imageMale": "No disponible",
-                    "imageFemale": "No disponible"
+                    "imageMale": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/drachen_vambraces_alpha_female.png",
+                    "imageFemale": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/drachen_vambraces_alpha_female.png"
                 }
             },
             {
@@ -7301,8 +7301,8 @@
                 "name": "Drachen Coil Alpha",
                 "type": "waist",
                 "assets": {
-                    "imageMale": "No disponible",
-                    "imageFemale": "No disponible"
+                    "imageMale": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/drachen_coil_alpha_male.png",
+                    "imageFemale": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/drachen_coil_alpha_female.png"
                 }
             },
             {
@@ -7310,8 +7310,8 @@
                 "name": "Drachen Greaves Alpha",
                 "type": "legs",
                 "assets": {
-                    "imageMale": "No disponible",
-                    "imageFemale": "No disponible"
+                    "imageMale": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/drachen_greaves_alpha_male.png",
+                    "imageFemale": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/drachen_greaves_alpha_female.png"
                 }
             }
         ]
@@ -7325,7 +7325,7 @@
                 "name": "Azure Starlord Crown Alpha",
                 "type": "head",
                 "assets": {
-                    "imageMale": "No disponible",
+                    "imageMale": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/azure-starlord-crown-alpha-mhw-wiki-guide.png",
                     "imageFemale": "No disponible"
                 }
             },
@@ -7334,7 +7334,7 @@
                 "name": "Azure Starlord Armor Alpha",
                 "type": "chest",
                 "assets": {
-                    "imageMale": "No disponible",
+                    "imageMale": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/azure-starlord-armor-alpha-mhw-wiki-guide.png",
                     "imageFemale": "No disponible"
                 }
             },
@@ -7343,7 +7343,7 @@
                 "name": "Azure Starlord Gauntlets Alpha",
                 "type": "gloves",
                 "assets": {
-                    "imageMale": "No disponible",
+                    "imageMale": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/azure-starlord-gauntlets-alpha-mhw-wiki.png",
                     "imageFemale": "No disponible"
                 }
             },
@@ -7352,7 +7352,7 @@
                 "name": "Azure Starlord Tassets Alpha",
                 "type": "waist",
                 "assets": {
-                    "imageMale": "No disponible",
+                    "imageMale": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/azure-starlord-tassets-alpha-mhw-wiki-guide.png",
                     "imageFemale": "No disponible"
                 }
             },
@@ -7361,7 +7361,7 @@
                 "name": "Azure Starlord Guards Alpha",
                 "type": "legs",
                 "assets": {
-                    "imageMale": "No disponible",
+                    "imageMale": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/azure-starlord-guards-alpha-mhw-wiki-guide.png",
                     "imageFemale": "No disponible"
                 }
             }
@@ -7376,8 +7376,8 @@
                 "name": "Kulve Taroth's Fury Gamma",
                 "type": "head",
                 "assets": {
-                    "imageMale": "No disponible",
-                    "imageFemale": "No disponible"
+                    "imageMale": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/kulve_taroths_fury_alpha_male.png",
+                    "imageFemale": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/kulve_taroths_fury_alpha_female.png"
                 }
             },
             {
@@ -7385,8 +7385,8 @@
                 "name": "Kulve Taroth's Ire Gamma",
                 "type": "chest",
                 "assets": {
-                    "imageMale": "No disponible",
-                    "imageFemale": "No disponible"
+                    "imageMale": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/kulve_taroths_ire_alpha_male.png",
+                    "imageFemale": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/kulve_taroths_ire_alpha_female.png"
                 }
             },
             {
@@ -7394,8 +7394,8 @@
                 "name": "Kulve Taroth's Rage Gamma",
                 "type": "gloves",
                 "assets": {
-                    "imageMale": "No disponible",
-                    "imageFemale": "No disponible"
+                    "imageMale": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/kulve_taroths_rage_alpha_male.png",
+                    "imageFemale": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/kulve_taroths_rage_alpha_female.png"
                 }
             },
             {
@@ -7403,8 +7403,8 @@
                 "name": "Kulve Taroth's Malice Gamma",
                 "type": "waist",
                 "assets": {
-                    "imageMale": "No disponible",
-                    "imageFemale": "No disponible"
+                    "imageMale": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/kulve_taroths_malice_alpha_male.png",
+                    "imageFemale": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/kulve_taroths_malice_alpha_female.png"
                 }
             },
             {
@@ -7412,8 +7412,8 @@
                 "name": "Kulve Taroth's Wrath Gamma",
                 "type": "legs",
                 "assets": {
-                    "imageMale": "No disponible",
-                    "imageFemale": "No disponible"
+                    "imageMale": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/kulve_taroths_wrath_alpha_male.png",
+                    "imageFemale": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/kulve_taroths_wrath_alpha_female.png"
                 }
             }
         ]
@@ -7427,7 +7427,7 @@
                 "name": "Empress Crown Gamma",
                 "type": "head",
                 "assets": {
-                    "imageMale": "No disponible",
+                    "imageMale": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/empress-crown-gamma-mhw-wiki.png",
                     "imageFemale": "No disponible"
                 }
             },
@@ -7436,7 +7436,7 @@
                 "name": "Empress Mail Gamma",
                 "type": "chest",
                 "assets": {
-                    "imageMale": "No disponible",
+                    "imageMale": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/empress-mail-gamma-mhw-wiki-guide.png",
                     "imageFemale": "No disponible"
                 }
             },
@@ -7445,7 +7445,7 @@
                 "name": "Empress Vambraces Gamma",
                 "type": "gloves",
                 "assets": {
-                    "imageMale": "No disponible",
+                    "imageMale": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/empress-vambraces-gamma-mhw-wiki-guide.png",
                     "imageFemale": "No disponible"
                 }
             },
@@ -7454,7 +7454,7 @@
                 "name": "Empress Coil Gamma",
                 "type": "waist",
                 "assets": {
-                    "imageMale": "No disponible",
+                    "imageMale": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/empress-coil-gamma-mhw-wiki-guide.png",
                     "imageFemale": "No disponible"
                 }
             },
@@ -7463,7 +7463,7 @@
                 "name": "Empress Greaves Gamma",
                 "type": "legs",
                 "assets": {
-                    "imageMale": "No disponible",
+                    "imageMale": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/empress-greaves-gamma-mhw-wiki-guide.png",
                     "imageFemale": "No disponible"
                 }
             }
@@ -7478,7 +7478,7 @@
                 "name": "Xeno'jiiva Headgear Gamma",
                 "type": "head",
                 "assets": {
-                    "imageMale": "No disponible",
+                    "imageMale": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/placeholder_headgear_male.png",
                     "imageFemale": "No disponible"
                 }
             },
@@ -7487,7 +7487,7 @@
                 "name": "Xeno'jiiva Hide Gamma",
                 "type": "chest",
                 "assets": {
-                    "imageMale": "No disponible",
+                    "imageMale": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/placeholder_armor_male.png",
                     "imageFemale": "No disponible"
                 }
             },
@@ -7496,7 +7496,7 @@
                 "name": "Xeno'jiiva Claws Gamma",
                 "type": "gloves",
                 "assets": {
-                    "imageMale": "No disponible",
+                    "imageMale": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/placeholder_gloves_male.png",
                     "imageFemale": "No disponible"
                 }
             },
@@ -7505,7 +7505,7 @@
                 "name": "Xeno'jiiva Spine Gamma",
                 "type": "waist",
                 "assets": {
-                    "imageMale": "No disponible",
+                    "imageMale": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/placeholder_faulds_male.png",
                     "imageFemale": "No disponible"
                 }
             },
@@ -7514,7 +7514,7 @@
                 "name": "Xeno'jiiva Spurs Gamma",
                 "type": "legs",
                 "assets": {
-                    "imageMale": "No disponible",
+                    "imageMale": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/placeholder_leggings_male.png",
                     "imageFemale": "No disponible"
                 }
             }
@@ -7529,8 +7529,8 @@
                 "name": "Zorah Headgear Gamma",
                 "type": "head",
                 "assets": {
-                    "imageMale": "No disponible",
-                    "imageFemale": "No disponible"
+                    "imageMale": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/zorah_headgear_alpha_female.png",
+                    "imageFemale": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/zorah_headgear_beta_male.png"
                 }
             },
             {
@@ -7538,8 +7538,8 @@
                 "name": "Zorah Hide Gamma",
                 "type": "chest",
                 "assets": {
-                    "imageMale": "No disponible",
-                    "imageFemale": "No disponible"
+                    "imageMale": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/zorah_hide_alpha_male.png",
+                    "imageFemale": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/zorah_hide_beta_female.png"
                 }
             },
             {
@@ -7547,8 +7547,8 @@
                 "name": "Zorah Claws Gamma",
                 "type": "gloves",
                 "assets": {
-                    "imageMale": "No disponible",
-                    "imageFemale": "No disponible"
+                    "imageMale": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/zorah-claws-gamma-mhw-wiki-guide.png",
+                    "imageFemale": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/zorah-claws-gamma-mhw-wiki-guide.png"
                 }
             },
             {
@@ -7556,8 +7556,8 @@
                 "name": "Zorah Spine Gamma",
                 "type": "waist",
                 "assets": {
-                    "imageMale": "No disponible",
-                    "imageFemale": "No disponible"
+                    "imageMale": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/zorah-spine-gamma-mhw-wiki-guide.png",
+                    "imageFemale": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/zorah-spine-gamma-mhw-wiki-guide.png"
                 }
             },
             {
@@ -7565,8 +7565,8 @@
                 "name": "Zorah Spurs Gamma",
                 "type": "legs",
                 "assets": {
-                    "imageMale": "No disponible",
-                    "imageFemale": "No disponible"
+                    "imageMale": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/zorah-spurs-gamma-mhw-wiki-guide.png",
+                    "imageFemale": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/zorah-spurs-gamma-mhw-wiki-guide.png"
                 }
             }
         ]
@@ -7580,7 +7580,7 @@
                 "name": "Nergigante Helm Gamma",
                 "type": "head",
                 "assets": {
-                    "imageMale": "No disponible",
+                    "imageMale": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/nergigante-helm-gamma-mhw-wiki-guide.png",
                     "imageFemale": "No disponible"
                 }
             },
@@ -7589,7 +7589,7 @@
                 "name": "Nergigante Mail Gamma",
                 "type": "chest",
                 "assets": {
-                    "imageMale": "No disponible",
+                    "imageMale": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/nergigante-mail-gamma-mhw-wiki-guide.png",
                     "imageFemale": "No disponible"
                 }
             },
@@ -7598,7 +7598,7 @@
                 "name": "Nergigante Vambraces Gamma",
                 "type": "gloves",
                 "assets": {
-                    "imageMale": "No disponible",
+                    "imageMale": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/nergigante-vambraces-gamma-mhw-wiki-guide.png",
                     "imageFemale": "No disponible"
                 }
             },
@@ -7607,7 +7607,7 @@
                 "name": "Nergigante Coil Gamma",
                 "type": "waist",
                 "assets": {
-                    "imageMale": "No disponible",
+                    "imageMale": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/nergigante-coil-gamma-mhw-wiki-guide.png",
                     "imageFemale": "No disponible"
                 }
             },
@@ -7616,7 +7616,7 @@
                 "name": "Nergigante Greaves Gamma",
                 "type": "legs",
                 "assets": {
-                    "imageMale": "No disponible",
+                    "imageMale": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/nergigante-greaves-gamma-mhw-wiki-guide.png",
                     "imageFemale": "No disponible"
                 }
             }
@@ -7631,7 +7631,7 @@
                 "name": "Kushala Glare Gamma",
                 "type": "head",
                 "assets": {
-                    "imageMale": "No disponible",
+                    "imageMale": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/kushala-glare-gamma-mhw-wiki-guide.png",
                     "imageFemale": "No disponible"
                 }
             },
@@ -7640,7 +7640,7 @@
                 "name": "Kushala Cista Gamma",
                 "type": "chest",
                 "assets": {
-                    "imageMale": "No disponible",
+                    "imageMale": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/kushala-cista-gamma-mhw-wiki-guide.png",
                     "imageFemale": "No disponible"
                 }
             },
@@ -7649,7 +7649,7 @@
                 "name": "Kushala Grip Gamma",
                 "type": "gloves",
                 "assets": {
-                    "imageMale": "No disponible",
+                    "imageMale": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/kushala-grip-gamma-mhw-wiki-guide.png",
                     "imageFemale": "No disponible"
                 }
             },
@@ -7658,7 +7658,7 @@
                 "name": "Kushala Cocoon Gamma",
                 "type": "waist",
                 "assets": {
-                    "imageMale": "No disponible",
+                    "imageMale": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/kushala-cocoon-gamma-mhw-wiki-guide.png",
                     "imageFemale": "No disponible"
                 }
             },
@@ -7667,7 +7667,7 @@
                 "name": "Kushala Crus Gamma",
                 "type": "legs",
                 "assets": {
-                    "imageMale": "No disponible",
+                    "imageMale": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/kushala-crus-gamma-mhw-wiki-guide.png",
                     "imageFemale": "No disponible"
                 }
             }
@@ -7682,7 +7682,7 @@
                 "name": "Kaiser Crown Gamma",
                 "type": "head",
                 "assets": {
-                    "imageMale": "No disponible",
+                    "imageMale": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/kaiser-crown-gamma-mhw-wiki-guide.png",
                     "imageFemale": "No disponible"
                 }
             },
@@ -7691,7 +7691,7 @@
                 "name": "Kaiser Mail Gamma",
                 "type": "chest",
                 "assets": {
-                    "imageMale": "No disponible",
+                    "imageMale": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/kaiser-mail-gamma-mhw-wiki-guide.png",
                     "imageFemale": "No disponible"
                 }
             },
@@ -7700,7 +7700,7 @@
                 "name": "Kaiser Vambraces Gamma",
                 "type": "gloves",
                 "assets": {
-                    "imageMale": "No disponible",
+                    "imageMale": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/kaiser-vambraces-gamma-mhw-wiki-guide.png",
                     "imageFemale": "No disponible"
                 }
             },
@@ -7709,7 +7709,7 @@
                 "name": "Kaiser Coil Gamma",
                 "type": "waist",
                 "assets": {
-                    "imageMale": "No disponible",
+                    "imageMale": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/kaiser-coil-gamma-mhw-wiki-guide.png",
                     "imageFemale": "No disponible"
                 }
             },
@@ -7718,7 +7718,7 @@
                 "name": "Kaiser Greaves Gamma",
                 "type": "legs",
                 "assets": {
-                    "imageMale": "No disponible",
+                    "imageMale": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/kaiser-greaves-gamma-mhw-wiki.png",
                     "imageFemale": "No disponible"
                 }
             }
@@ -7733,8 +7733,8 @@
                 "name": "Bone Helm Alpha +",
                 "type": "head",
                 "assets": {
-                    "imageMale": "No disponible",
-                    "imageFemale": "No disponible"
+                    "imageMale": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/bone-helm-alpha-plus-male-mhw-wiki-guide.png",
+                    "imageFemale": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/bone_helm_alpha_plus_female_2_mhw-wiki-guide.png"
                 }
             },
             {
@@ -7742,8 +7742,8 @@
                 "name": "Bone Mail Alpha +",
                 "type": "chest",
                 "assets": {
-                    "imageMale": "No disponible",
-                    "imageFemale": "No disponible"
+                    "imageMale": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/bone-mail-alpha-plus-male-mhw-wiki-guide.png",
+                    "imageFemale": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/bone_mail_alpha_plus_female_mhw-wiki-guide.png"
                 }
             },
             {
@@ -7751,8 +7751,8 @@
                 "name": "Bone Vambraces Alpha +",
                 "type": "gloves",
                 "assets": {
-                    "imageMale": "No disponible",
-                    "imageFemale": "No disponible"
+                    "imageMale": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/bone-vambraces-alpha-plus-male-mhw-wiki-guide.png",
+                    "imageFemale": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/bone_vambraces_alpha_plus_female_mhw-wiki-guide.png"
                 }
             },
             {
@@ -7760,8 +7760,8 @@
                 "name": "Bone Coil Alpha +",
                 "type": "waist",
                 "assets": {
-                    "imageMale": "No disponible",
-                    "imageFemale": "No disponible"
+                    "imageMale": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/bone-coil-alpha-plus-male-mhw-wiki-guide.png",
+                    "imageFemale": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/bone_coil_alpha_plus_female_mhw-wiki-guide.png"
                 }
             },
             {
@@ -7769,8 +7769,8 @@
                 "name": "Bone Greaves Alpha +",
                 "type": "legs",
                 "assets": {
-                    "imageMale": "No disponible",
-                    "imageFemale": "No disponible"
+                    "imageMale": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/bone-greaves-alpha-plus-male-mhw-wiki-guide.png",
+                    "imageFemale": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/bone_greaves_alpha_plus_female_mhw-wiki-guide.png"
                 }
             }
         ]
@@ -7784,8 +7784,8 @@
                 "name": "Alloy Helm Alpha +",
                 "type": "head",
                 "assets": {
-                    "imageMale": "No disponible",
-                    "imageFemale": "No disponible"
+                    "imageMale": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/alloy_helm_alpha_male.png",
+                    "imageFemale": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/alloy_helm_alpha_female.png"
                 }
             },
             {
@@ -7793,8 +7793,8 @@
                 "name": "Alloy Mail Alpha +",
                 "type": "chest",
                 "assets": {
-                    "imageMale": "No disponible",
-                    "imageFemale": "No disponible"
+                    "imageMale": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/alloy_mail_alpha_male.png",
+                    "imageFemale": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/alloy_mail_alpha_female.png"
                 }
             },
             {
@@ -7802,8 +7802,8 @@
                 "name": "Alloy Vambraces Alpha +",
                 "type": "gloves",
                 "assets": {
-                    "imageMale": "No disponible",
-                    "imageFemale": "No disponible"
+                    "imageMale": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/alloy_vambraces_alpha_male.png",
+                    "imageFemale": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/alloy_vambraces_alpha_female.png"
                 }
             },
             {
@@ -7811,8 +7811,8 @@
                 "name": "Alloy Coil Alpha +",
                 "type": "waist",
                 "assets": {
-                    "imageMale": "No disponible",
-                    "imageFemale": "No disponible"
+                    "imageMale": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/alloy_coil_alpha_male.png",
+                    "imageFemale": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/alloy_coil_alpha_female.png"
                 }
             },
             {
@@ -7820,8 +7820,8 @@
                 "name": "Alloy Greaves Alpha +",
                 "type": "legs",
                 "assets": {
-                    "imageMale": "No disponible",
-                    "imageFemale": "No disponible"
+                    "imageMale": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/alloy_greaves_alpha_male.png",
+                    "imageFemale": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/alloy_greaves_alpha_female.png"
                 }
             }
         ]
@@ -7835,8 +7835,8 @@
                 "name": "Vespoid Helm Alpha +",
                 "type": "head",
                 "assets": {
-                    "imageMale": "No disponible",
-                    "imageFemale": "No disponible"
+                    "imageMale": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/vespoid-helm-alpha-plus-male-mhw-wiki-guide.png",
+                    "imageFemale": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/vespoid_helm_alpha_plus_female_mhw-wiki-guide.png"
                 }
             },
             {
@@ -7844,8 +7844,8 @@
                 "name": "Vespoid Mail Alpha +",
                 "type": "chest",
                 "assets": {
-                    "imageMale": "No disponible",
-                    "imageFemale": "No disponible"
+                    "imageMale": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/vespoid-mail-alpha-plus-male-mhw-wiki-guide.png",
+                    "imageFemale": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/vespoid_mail_alpha_plus_female_mhw-wiki-guide.png"
                 }
             },
             {
@@ -7853,8 +7853,8 @@
                 "name": "Vespoid Vambraces Alpha +",
                 "type": "gloves",
                 "assets": {
-                    "imageMale": "No disponible",
-                    "imageFemale": "No disponible"
+                    "imageMale": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/vespoid-vambraces-alpha-plus-male-mhw-wiki-guide.png",
+                    "imageFemale": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/vespoid_vambraces_alpha_plus_female_mhw-wiki-guide.png"
                 }
             },
             {
@@ -7862,8 +7862,8 @@
                 "name": "Vespoid Coil Alpha +",
                 "type": "waist",
                 "assets": {
-                    "imageMale": "No disponible",
-                    "imageFemale": "No disponible"
+                    "imageMale": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/vespoid-coil-alpha-plus-male-mhw-wiki-guide.png",
+                    "imageFemale": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/vespoid_coil_alpha_plus_female_mhw-wiki-guide.png"
                 }
             },
             {
@@ -7871,8 +7871,8 @@
                 "name": "Vespoid Greaves Alpha +",
                 "type": "legs",
                 "assets": {
-                    "imageMale": "No disponible",
-                    "imageFemale": "No disponible"
+                    "imageMale": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/vespoid-greaves-alpha-plus-male-mhw-wiki-guide.png",
+                    "imageFemale": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/vespoid_greaves_alpha_plus_female_mhw-wiki-guide.png"
                 }
             }
         ]
@@ -7886,8 +7886,8 @@
                 "name": "Hornetaur Helm Alpha +",
                 "type": "head",
                 "assets": {
-                    "imageMale": "No disponible",
-                    "imageFemale": "No disponible"
+                    "imageMale": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/hornetaur-helm-alpha-plus-male-mhw-wiki-guide.png",
+                    "imageFemale": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/hornetaur_helm_alpha_plus_female_mhw-wiki-guide.png"
                 }
             },
             {
@@ -7895,8 +7895,8 @@
                 "name": "Hornetaur Mail Alpha +",
                 "type": "chest",
                 "assets": {
-                    "imageMale": "No disponible",
-                    "imageFemale": "No disponible"
+                    "imageMale": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/placeholder_faulds_male.png",
+                    "imageFemale": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/hornetaur_mail_alpha_plus_female_mhw-wiki-guide.png"
                 }
             },
             {
@@ -7904,8 +7904,8 @@
                 "name": "Hornetaur Vambraces Alpha +",
                 "type": "gloves",
                 "assets": {
-                    "imageMale": "No disponible",
-                    "imageFemale": "No disponible"
+                    "imageMale": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/hornetaur-vambraces-beta-plus-male-mhw-wiki-guide.png",
+                    "imageFemale": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/hornetaur_vambraces_alpha_plus_female_mhw-wiki-guide.png"
                 }
             },
             {
@@ -7913,8 +7913,8 @@
                 "name": "Hornetaur Coil Alpha +",
                 "type": "waist",
                 "assets": {
-                    "imageMale": "No disponible",
-                    "imageFemale": "No disponible"
+                    "imageMale": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/hornetaur-coil-alpha-plus-male-mhw-wiki-guide.png",
+                    "imageFemale": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/hornetaur_coil_alpha_plus_female_mhw-wiki-guide.png"
                 }
             },
             {
@@ -7922,8 +7922,8 @@
                 "name": "Hornetaur Greaves Alpha +",
                 "type": "legs",
                 "assets": {
-                    "imageMale": "No disponible",
-                    "imageFemale": "No disponible"
+                    "imageMale": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/hornetaur-greaves-alpha-plus-male-mhw-wiki-guide.png",
+                    "imageFemale": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/hornetaur_greaves_alpha_plus_female_mhw-wiki-guide.png"
                 }
             }
         ]
@@ -7937,7 +7937,7 @@
                 "name": "Kestodon Guards Alpha +",
                 "type": "gloves",
                 "assets": {
-                    "imageMale": "No disponible",
+                    "imageMale": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/kestodon_guards_alpha_plus_female-mhw-wiki-guide.png",
                     "imageFemale": "No disponible"
                 }
             }
@@ -7952,8 +7952,8 @@
                 "name": "Gajau Boots Alpha +",
                 "type": "legs",
                 "assets": {
-                    "imageMale": "No disponible",
-                    "imageFemale": "No disponible"
+                    "imageMale": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/gajau-boots-alpha-plus-male-mhw-wiki-guide.png",
+                    "imageFemale": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/gajau_boots_alpha_plus_female_mhw-wiki-guide.png"
                 }
             }
         ]
@@ -7967,8 +7967,8 @@
                 "name": "Shamos Goggles Alpha +",
                 "type": "head",
                 "assets": {
-                    "imageMale": "No disponible",
-                    "imageFemale": "No disponible"
+                    "imageMale": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/shamos-goggles-alpha-plus-male-mhw-wiki-guide.png",
+                    "imageFemale": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/shamos_goggles_alpha_plus_female_mhw-wiki-guide.png"
                 }
             }
         ]
@@ -7982,8 +7982,8 @@
                 "name": "Gastodon Horn Alpha +",
                 "type": "head",
                 "assets": {
-                    "imageMale": "No disponible",
-                    "imageFemale": "No disponible"
+                    "imageMale": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/gastodon-horn-alpha-plus-male-mhw-wiki-guide.png",
+                    "imageFemale": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/gastodon_horn_alpha_plus_female_mhw-wiki-guide.png"
                 }
             }
         ]
@@ -7997,8 +7997,8 @@
                 "name": "Barnos Jacket Alpha +",
                 "type": "chest",
                 "assets": {
-                    "imageMale": "No disponible",
-                    "imageFemale": "No disponible"
+                    "imageMale": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/barnos-jacket-alpha-plus-male-mhw-wiki-guide.png",
+                    "imageFemale": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/barnos_jackets_alpha_plus_female_mhw-wiki-guide.png"
                 }
             }
         ]
@@ -8012,8 +8012,8 @@
                 "name": "Wulg Scarf Alpha +",
                 "type": "head",
                 "assets": {
-                    "imageMale": "No disponible",
-                    "imageFemale": "No disponible"
+                    "imageMale": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/wulg-scarf-alpha-plus-male-mhw-wiki-guide.png",
+                    "imageFemale": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/wulg_scarf_alpha_plus_female_mhw-wiki-guide.png"
                 }
             }
         ]
@@ -8027,8 +8027,8 @@
                 "name": "Cortos Cape Alpha +",
                 "type": "chest",
                 "assets": {
-                    "imageMale": "No disponible",
-                    "imageFemale": "No disponible"
+                    "imageMale": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/cortos-cape-alpha-plus-male-mhw-wiki-guide.png",
+                    "imageFemale": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/cortos_cape_alpha_plus_female_mhw-wiki-guide.png"
                 }
             }
         ]
@@ -8042,8 +8042,8 @@
                 "name": "Jagras Helm Alpha +",
                 "type": "head",
                 "assets": {
-                    "imageMale": "No disponible",
-                    "imageFemale": "No disponible"
+                    "imageMale": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/jagras-helm-alpha-plus-male-mhw-wiki-guide.png",
+                    "imageFemale": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/jagras_helm_alpha_plus_female_mhw-wiki-guide.png"
                 }
             },
             {
@@ -8051,8 +8051,8 @@
                 "name": "Jagras Mail Alpha +",
                 "type": "chest",
                 "assets": {
-                    "imageMale": "No disponible",
-                    "imageFemale": "No disponible"
+                    "imageMale": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/jagras-mail-alpha-plus-male-mhw-wiki-guide.png",
+                    "imageFemale": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/jagras_mail_alpha_plus_female_mhw-wiki-guide.png"
                 }
             },
             {
@@ -8060,8 +8060,8 @@
                 "name": "Jagras Vambraces Alpha +",
                 "type": "gloves",
                 "assets": {
-                    "imageMale": "No disponible",
-                    "imageFemale": "No disponible"
+                    "imageMale": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/jagras-vambraces-alpha-plus-male-mhw-wiki-guide.png",
+                    "imageFemale": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/jagras_vambraces_alpha_plus_female_mhw-wiki-guide.png"
                 }
             },
             {
@@ -8069,7 +8069,7 @@
                 "name": "Jagras Coil Alpha +",
                 "type": "waist",
                 "assets": {
-                    "imageMale": "No disponible",
+                    "imageMale": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/jagras-coil-alpha-plus-male-mhw-wiki-guide.png",
                     "imageFemale": "No disponible"
                 }
             },
@@ -8078,7 +8078,7 @@
                 "name": "Jagras Greaves Alpha +",
                 "type": "legs",
                 "assets": {
-                    "imageMale": "No disponible",
+                    "imageMale": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/jagras-greaves-beta-plus-male-mhw-wiki-guide.png",
                     "imageFemale": "No disponible"
                 }
             }
@@ -8093,7 +8093,7 @@
                 "name": "Tzitzi Headgear Alpha +",
                 "type": "head",
                 "assets": {
-                    "imageMale": "No disponible",
+                    "imageMale": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/tzitzi_headgear_alpha_male.png",
                     "imageFemale": "No disponible"
                 }
             },
@@ -8102,7 +8102,7 @@
                 "name": "Tzitzi Mail Alpha +",
                 "type": "chest",
                 "assets": {
-                    "imageMale": "No disponible",
+                    "imageMale": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/tzitzi_mail_alpha_male.png",
                     "imageFemale": "No disponible"
                 }
             },
@@ -8111,7 +8111,7 @@
                 "name": "Tzitzi Vambraces Alpha +",
                 "type": "gloves",
                 "assets": {
-                    "imageMale": "No disponible",
+                    "imageMale": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/tzitzi_vambraces_alpha_male.png",
                     "imageFemale": "No disponible"
                 }
             },
@@ -8120,7 +8120,7 @@
                 "name": "Tzitzi Coil Alpha +",
                 "type": "waist",
                 "assets": {
-                    "imageMale": "No disponible",
+                    "imageMale": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/tzitzi_coil_alpha_male.png",
                     "imageFemale": "No disponible"
                 }
             },
@@ -8129,7 +8129,7 @@
                 "name": "Tzitzi Greaves Alpha +",
                 "type": "legs",
                 "assets": {
-                    "imageMale": "No disponible",
+                    "imageMale": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/tzitzi_greaves_alpha_male.png",
                     "imageFemale": "No disponible"
                 }
             }
@@ -8144,7 +8144,7 @@
                 "name": "Girros Headgear Alpha +",
                 "type": "head",
                 "assets": {
-                    "imageMale": "No disponible",
+                    "imageMale": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/girros-headgear-alpha-plus-male-mhw-wiki-guide.png",
                     "imageFemale": "No disponible"
                 }
             },
@@ -8153,7 +8153,7 @@
                 "name": "Girros Mail Alpha +",
                 "type": "chest",
                 "assets": {
-                    "imageMale": "No disponible",
+                    "imageMale": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/girros-mail-beta-plus-male-mhw-wiki-guide.png",
                     "imageFemale": "No disponible"
                 }
             },
@@ -8162,7 +8162,7 @@
                 "name": "Girros Vambraces Alpha +",
                 "type": "gloves",
                 "assets": {
-                    "imageMale": "No disponible",
+                    "imageMale": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/girros-vambraces-alpha-plus-male-mhw-wiki-guide.png",
                     "imageFemale": "No disponible"
                 }
             },
@@ -8171,7 +8171,7 @@
                 "name": "Girros Coil Alpha +",
                 "type": "waist",
                 "assets": {
-                    "imageMale": "No disponible",
+                    "imageMale": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/girros-coil-alpha-plus-male-mhw-wiki-guide.png",
                     "imageFemale": "No disponible"
                 }
             },
@@ -8180,7 +8180,7 @@
                 "name": "Girros Greaves Alpha +",
                 "type": "legs",
                 "assets": {
-                    "imageMale": "No disponible",
+                    "imageMale": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/girros-greaves-alpha-plus-male-mhw-wiki-guide.png",
                     "imageFemale": "No disponible"
                 }
             }
@@ -8195,7 +8195,7 @@
                 "name": "Dodogama Helm Alpha +",
                 "type": "head",
                 "assets": {
-                    "imageMale": "No disponible",
+                    "imageMale": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/dodogama-helm-alpha-plus-male-mhw-wiki-guide.png",
                     "imageFemale": "No disponible"
                 }
             },
@@ -8204,7 +8204,7 @@
                 "name": "Dodogama Mail Alpha +",
                 "type": "chest",
                 "assets": {
-                    "imageMale": "No disponible",
+                    "imageMale": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/dodogama-mail-beta-plus-male-mhw-wiki-guide.png",
                     "imageFemale": "No disponible"
                 }
             },
@@ -8213,7 +8213,7 @@
                 "name": "Dodogama Vambraces Alpha +",
                 "type": "gloves",
                 "assets": {
-                    "imageMale": "No disponible",
+                    "imageMale": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/dodogama-vambraces-alpha-plus-male-mhw-wiki-guide.png",
                     "imageFemale": "No disponible"
                 }
             },
@@ -8222,7 +8222,7 @@
                 "name": "Dodogama Coil Alpha +",
                 "type": "waist",
                 "assets": {
-                    "imageMale": "No disponible",
+                    "imageMale": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/dodogama-coil-alpha-plus-male-mhw-wiki-guide.png",
                     "imageFemale": "No disponible"
                 }
             },
@@ -8231,7 +8231,7 @@
                 "name": "Dodogama Greaves Alpha +",
                 "type": "legs",
                 "assets": {
-                    "imageMale": "No disponible",
+                    "imageMale": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/dodogama-greaves-alpha-plus-male-mhw-wiki-guide.png",
                     "imageFemale": "No disponible"
                 }
             }
@@ -8246,7 +8246,7 @@
                 "name": "Kulu Headpiece Alpha +",
                 "type": "head",
                 "assets": {
-                    "imageMale": "No disponible",
+                    "imageMale": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/kulu-headpiece-beta-plus-male-mhw-wiki-guide.png",
                     "imageFemale": "No disponible"
                 }
             },
@@ -8255,7 +8255,7 @@
                 "name": "Kulu Mail Alpha +",
                 "type": "chest",
                 "assets": {
-                    "imageMale": "No disponible",
+                    "imageMale": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/kulu-mail-alpha-plus-male-mhw-wiki-guide.png",
                     "imageFemale": "No disponible"
                 }
             },
@@ -8264,7 +8264,7 @@
                 "name": "Kulu Vambraces Alpha +",
                 "type": "gloves",
                 "assets": {
-                    "imageMale": "No disponible",
+                    "imageMale": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/kulu-vambraces-alpha-plus-male-mhw-wiki-guide.png",
                     "imageFemale": "No disponible"
                 }
             },
@@ -8273,7 +8273,7 @@
                 "name": "Kulu Coil Alpha +",
                 "type": "waist",
                 "assets": {
-                    "imageMale": "No disponible",
+                    "imageMale": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/kulu-coil-beta-plus-male-mhw-wiki-guide.png",
                     "imageFemale": "No disponible"
                 }
             },
@@ -8282,7 +8282,7 @@
                 "name": "Kulu Greaves Alpha +",
                 "type": "legs",
                 "assets": {
-                    "imageMale": "No disponible",
+                    "imageMale": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/kulu-greaves-alpha-plus-male-mhw-wiki-guide.png",
                     "imageFemale": "No disponible"
                 }
             }
@@ -8297,7 +8297,7 @@
                 "name": "Pukei Hat Alpha +",
                 "type": "head",
                 "assets": {
-                    "imageMale": "No disponible",
+                    "imageMale": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/pukei-hat-alpha-plus-male-mhw-wiki-guide.png",
                     "imageFemale": "No disponible"
                 }
             },
@@ -8306,7 +8306,7 @@
                 "name": "Pukei Mail Alpha +",
                 "type": "chest",
                 "assets": {
-                    "imageMale": "No disponible",
+                    "imageMale": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/pukei-mail-beta-plus-male-mhw-wiki-guide.png",
                     "imageFemale": "No disponible"
                 }
             },
@@ -8315,7 +8315,7 @@
                 "name": "Pukei Vambraces Alpha +",
                 "type": "gloves",
                 "assets": {
-                    "imageMale": "No disponible",
+                    "imageMale": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/pukei-vambraces-alpha-plus-male-mhw-wiki-guide.png",
                     "imageFemale": "No disponible"
                 }
             },
@@ -8324,7 +8324,7 @@
                 "name": "Pukei Coil Alpha +",
                 "type": "waist",
                 "assets": {
-                    "imageMale": "No disponible",
+                    "imageMale": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/pukei-coil-alpha-plus-male-mhw-wiki-guide.png",
                     "imageFemale": "No disponible"
                 }
             },
@@ -8333,7 +8333,7 @@
                 "name": "Pukei Greaves Alpha +",
                 "type": "legs",
                 "assets": {
-                    "imageMale": "No disponible",
+                    "imageMale": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/pukei-greaves-alpha-plus-male-mhw-wiki-guide.png",
                     "imageFemale": "No disponible"
                 }
             }
@@ -8348,7 +8348,7 @@
                 "name": "Pukei Lagoon Hat Alpha +",
                 "type": "head",
                 "assets": {
-                    "imageMale": "No disponible",
+                    "imageMale": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/pukei-lagoon-hat-alpha-plus-male-mhw-wiki-guide.png",
                     "imageFemale": "No disponible"
                 }
             },
@@ -8357,7 +8357,7 @@
                 "name": "Pukei Lagoon Mail Alpha +",
                 "type": "chest",
                 "assets": {
-                    "imageMale": "No disponible",
+                    "imageMale": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/pukei-lagoon-mail-alpha-plus-male-mhw-wiki-guide.png",
                     "imageFemale": "No disponible"
                 }
             },
@@ -8366,7 +8366,7 @@
                 "name": "Pukei Lagoon Braces Alpha +",
                 "type": "gloves",
                 "assets": {
-                    "imageMale": "No disponible",
+                    "imageMale": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/pukei-lagoon-braces-beta-plus-male-mhw-wiki-guide.png",
                     "imageFemale": "No disponible"
                 }
             },
@@ -8375,7 +8375,7 @@
                 "name": "Pukei Lagoon Coil Alpha +",
                 "type": "waist",
                 "assets": {
-                    "imageMale": "No disponible",
+                    "imageMale": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/pukei-lagoon-coil-alpha-plus-male-mhw-wiki-guide.png",
                     "imageFemale": "No disponible"
                 }
             },
@@ -8384,7 +8384,7 @@
                 "name": "Pukei Lagoon Greaves Alpha +",
                 "type": "legs",
                 "assets": {
-                    "imageMale": "No disponible",
+                    "imageMale": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/pukei-lagoon-greaves-alpha-plus-male-mhw-wiki-guide.png",
                     "imageFemale": "No disponible"
                 }
             }
@@ -8399,7 +8399,7 @@
                 "name": "Barroth Helm Alpha +",
                 "type": "head",
                 "assets": {
-                    "imageMale": "No disponible",
+                    "imageMale": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/barroth-helm-alpha-plus-male-mhw-wiki-guide.png",
                     "imageFemale": "No disponible"
                 }
             },
@@ -8408,7 +8408,7 @@
                 "name": "Barroth Mail Alpha +",
                 "type": "chest",
                 "assets": {
-                    "imageMale": "No disponible",
+                    "imageMale": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/barroth-mail-alpha-plus-male-mhw-wiki-guide.png",
                     "imageFemale": "No disponible"
                 }
             },
@@ -8417,7 +8417,7 @@
                 "name": "Barroth Vambraces Alpha +",
                 "type": "gloves",
                 "assets": {
-                    "imageMale": "No disponible",
+                    "imageMale": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/barroth-vambraces-alpha-plus-male-mhw-wiki-guide.png",
                     "imageFemale": "No disponible"
                 }
             },
@@ -8426,7 +8426,7 @@
                 "name": "Barroth Coil Alpha +",
                 "type": "waist",
                 "assets": {
-                    "imageMale": "No disponible",
+                    "imageMale": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/barroth-coil-beta-plus-male-mhw-wiki-guide.png",
                     "imageFemale": "No disponible"
                 }
             },
@@ -8435,7 +8435,7 @@
                 "name": "Barroth Greaves Alpha +",
                 "type": "legs",
                 "assets": {
-                    "imageMale": "No disponible",
+                    "imageMale": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/barroth-greaves-alpha-plus-male-mhw-wiki-guide.png",
                     "imageFemale": "No disponible"
                 }
             }
