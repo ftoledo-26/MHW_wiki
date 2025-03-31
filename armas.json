@@ -13501,7 +13501,7 @@
         "type": "insect-glaive",
         "name": "Gae Bolg",
         "assets": {
-            "image": "https://assets.mhw-db.com/weapons/insect-glaive/adeb5e7f179d604903c4b09cf9987f4ab010a632.119abd643a28cc9a87cbd2f74844248f.png"
+            "image": "https://monsterhunterwiki.org/images/c/c3/MHWI-Gae_Bolg_Render.png"
         },
         "attack": {
             "display": 558
@@ -13512,7 +13512,7 @@
         "type": "insect-glaive",
         "name": "True Gae Bolg",
         "assets": {
-            "image": "https://assets.mhw-db.com/weapons/insect-glaive/adeb5e7f179d604903c4b09cf9987f4ab010a632.119abd643a28cc9a87cbd2f74844248f.png"
+            "image": "https://monsterhunterwiki.org/images/c/c3/MHWI-Gae_Bolg_Render.png"
         },
         "attack": {
             "display": 589
@@ -13622,7 +13622,7 @@
         "type": "bow",
         "name": "Empress Arrow",
         "assets": {
-            "image": "https://assets.mhw-db.com/weapons/bow/20a9cfd9a6a80fa5666c7ab487c7422eff1d9092.05b8f5c24b77309f5fecbd97b9114c61.png"
+            "image": "https://monsterhunterwiki.org/images/c/cc/MHWI-Empress_Arrow_Render.png"
         },
         "attack": {
             "display": 216
@@ -13633,7 +13633,7 @@
         "type": "bow",
         "name": "Empress Arrow \"Blaze\"",
         "assets": {
-            "image": "https://assets.mhw-db.com/weapons/bow/20a9cfd9a6a80fa5666c7ab487c7422eff1d9092.05b8f5c24b77309f5fecbd97b9114c61.png"
+            "image": "https://monsterhunterwiki.org/images/c/cc/MHWI-Empress_Arrow_Render.png"
         },
         "attack": {
             "display": 216
@@ -13644,7 +13644,7 @@
         "type": "bow",
         "name": "Empress Arrow \"Ruin\"",
         "assets": {
-            "image": "https://assets.mhw-db.com/weapons/bow/20a9cfd9a6a80fa5666c7ab487c7422eff1d9092.05b8f5c24b77309f5fecbd97b9114c61.png"
+            "image": "https://monsterhunterwiki.org/images/c/cc/MHWI-Empress_Arrow_Render.png"
         },
         "attack": {
             "display": 228
@@ -13655,7 +13655,7 @@
         "type": "bow",
         "name": "Empress Arrow \"Styx\"",
         "assets": {
-            "image": "https://assets.mhw-db.com/weapons/bow/20a9cfd9a6a80fa5666c7ab487c7422eff1d9092.05b8f5c24b77309f5fecbd97b9114c61.png"
+            "image": "https://monsterhunterwiki.org/images/c/cc/MHWI-Empress_Arrow_Render.png"
         },
         "attack": {
             "display": 216
@@ -13666,7 +13666,7 @@
         "type": "heavy-bowgun",
         "name": "Taroth Assault \"Glutton\"",
         "assets": {
-            "image": "No disponible"
+            "image": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/tarroth-assault-glutton.png"
         },
         "attack": {
             "display": 270
@@ -13677,7 +13677,7 @@
         "type": "heavy-bowgun",
         "name": "Gold Blast Cannon",
         "assets": {
-            "image": "No disponible"
+            "image": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/tarroth-assault-glutton.png"
         },
         "attack": {
             "display": 210
@@ -13688,7 +13688,7 @@
         "type": "heavy-bowgun",
         "name": "Crusher Gold Cannon",
         "assets": {
-            "image": "No disponible"
+            "image": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/tarroth-assault-glutton.png"
         },
         "attack": {
             "display": 240
@@ -13699,7 +13699,7 @@
         "type": "heavy-bowgun",
         "name": "Flash Gold Cannon",
         "assets": {
-            "image": "No disponible"
+            "image": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/tarroth-assault-glutton.png"
         },
         "attack": {
             "display": 210
@@ -13710,7 +13710,7 @@
         "type": "heavy-bowgun",
         "name": "Glutton Gold Cannon",
         "assets": {
-            "image": "No disponible"
+            "image": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/tarroth-assault-glutton.png"
         },
         "attack": {
             "display": 225
@@ -13721,7 +13721,7 @@
         "type": "heavy-bowgun",
         "name": "Horn Gold Cannon",
         "assets": {
-            "image": "No disponible"
+            "image": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/tarroth-assault-glutton.png"
         },
         "attack": {
             "display": 270
@@ -13732,7 +13732,7 @@
         "type": "heavy-bowgun",
         "name": "Gold Icewater Cannon",
         "assets": {
-            "image": "No disponible"
+            "image": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/tarroth-assault-glutton.png"
         },
         "attack": {
             "display": 225
@@ -13743,7 +13743,7 @@
         "type": "heavy-bowgun",
         "name": "Magma Gold Cannon",
         "assets": {
-            "image": "No disponible"
+            "image": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/tarroth-assault-glutton.png"
         },
         "attack": {
             "display": 270
@@ -13754,7 +13754,7 @@
         "type": "heavy-bowgun",
         "name": "Rage Gold Cannon",
         "assets": {
-            "image": "No disponible"
+            "image": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/tarroth-assault-glutton.png"
         },
         "attack": {
             "display": 255
@@ -13765,7 +13765,7 @@
         "type": "heavy-bowgun",
         "name": "Spark Gold Cannon",
         "assets": {
-            "image": "No disponible"
+            "image": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/tarroth-assault-glutton.png"
         },
         "attack": {
             "display": 210
@@ -13776,7 +13776,7 @@
         "type": "heavy-bowgun",
         "name": "Spew Gold Cannon",
         "assets": {
-            "image": "No disponible"
+            "image": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/tarroth-assault-glutton.png"
         },
         "attack": {
             "display": 225
@@ -13787,7 +13787,7 @@
         "type": "heavy-bowgun",
         "name": "Gold Support Cannon",
         "assets": {
-            "image": "No disponible"
+            "image": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/tarroth-assault-glutton.png"
         },
         "attack": {
             "display": 210
@@ -13798,7 +13798,7 @@
         "type": "heavy-bowgun",
         "name": "Tar Gold Cannon",
         "assets": {
-            "image": "No disponible"
+            "image": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/tarroth-assault-glutton.png"
         },
         "attack": {
             "display": 225
@@ -13809,7 +13809,7 @@
         "type": "heavy-bowgun",
         "name": "Taroth Assault \"Crusher\"",
         "assets": {
-            "image": "No disponible"
+            "image": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/tarroth-assault-glutton.png"
         },
         "attack": {
             "display": 285
@@ -13820,7 +13820,7 @@
         "type": "heavy-bowgun",
         "name": "Taroth Assault \"Flash\"",
         "assets": {
-            "image": "No disponible"
+            "image": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/tarroth-assault-glutton.png"
         },
         "attack": {
             "display": 255
@@ -13831,7 +13831,7 @@
         "type": "heavy-bowgun",
         "name": "Taroth Assault \"Horn\"",
         "assets": {
-            "image": "No disponible"
+            "image": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/tarroth-assault-glutton.png"
         },
         "attack": {
             "display": 320
@@ -13842,7 +13842,7 @@
         "type": "heavy-bowgun",
         "name": "Taroth Assault \"Magma\"",
         "assets": {
-            "image": "No disponible"
+            "image": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/tarroth-assault-glutton.png"
         },
         "attack": {
             "display": 315
@@ -13853,7 +13853,7 @@
         "type": "heavy-bowgun",
         "name": "Taroth Assault \"Rage\"",
         "assets": {
-            "image": "No disponible"
+            "image": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/tarroth-assault-glutton.png"
         },
         "attack": {
             "display": 300
@@ -13864,7 +13864,7 @@
         "type": "heavy-bowgun",
         "name": "Taroth Assault \"Spark\"",
         "assets": {
-            "image": "No disponible"
+            "image": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/tarroth-assault-glutton.png"
         },
         "attack": {
             "display": 255
@@ -13875,7 +13875,7 @@
         "type": "heavy-bowgun",
         "name": "Taroth Assault \"Spew\"",
         "assets": {
-            "image": "No disponible"
+            "image": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/tarroth-assault-glutton.png"
         },
         "attack": {
             "display": 270
@@ -13886,7 +13886,7 @@
         "type": "heavy-bowgun",
         "name": "Taroth Assault \"Tar\"",
         "assets": {
-            "image": "No disponible"
+            "image": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/tarroth-assault-glutton.png"
         },
         "attack": {
             "display": 270
@@ -13897,7 +13897,7 @@
         "type": "heavy-bowgun",
         "name": "Taroth Assault \"Blast\"",
         "assets": {
-            "image": "No disponible"
+            "image": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/tarroth-assault-glutton.png"
         },
         "attack": {
             "display": 285
@@ -13908,7 +13908,7 @@
         "type": "heavy-bowgun",
         "name": "Taroth Assault \"Icewater\"",
         "assets": {
-            "image": "No disponible"
+            "image": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/tarroth-assault-glutton.png"
         },
         "attack": {
             "display": 285
@@ -13919,7 +13919,7 @@
         "type": "heavy-bowgun",
         "name": "Taroth Assault \"Support\"",
         "assets": {
-            "image": "No disponible"
+            "image": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/tarroth-assault-glutton.png"
         },
         "attack": {
             "display": 270
@@ -13930,7 +13930,7 @@
         "type": "heavy-bowgun",
         "name": "Taroth Assault \"Pierce\"",
         "assets": {
-            "image": "No disponible"
+            "image": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/tarroth-assault-glutton.png"
         },
         "attack": {
             "display": 285
@@ -13941,7 +13941,7 @@
         "type": "heavy-bowgun",
         "name": "Kjarr Assault \"Horn\"",
         "assets": {
-            "image": "No disponible"
+            "image": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/tarroth-assault-glutton.png"
         },
         "attack": {
             "display": 330
@@ -13952,7 +13952,7 @@
         "type": "heavy-bowgun",
         "name": "Kjarr Assault \"Ice\"",
         "assets": {
-            "image": "No disponible"
+            "image": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/tarroth-assault-glutton.png"
         },
         "attack": {
             "display": 300
@@ -13963,7 +13963,7 @@
         "type": "heavy-bowgun",
         "name": "Kjarr Assault \"Magma\"",
         "assets": {
-            "image": "No disponible"
+            "image": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/tarroth-assault-glutton.png"
         },
         "attack": {
             "display": 315
@@ -13974,7 +13974,7 @@
         "type": "heavy-bowgun",
         "name": "Kjarr Assault \"Rage\"",
         "assets": {
-            "image": "No disponible"
+            "image": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/tarroth-assault-glutton.png"
         },
         "attack": {
             "display": 300
@@ -13985,7 +13985,7 @@
         "type": "heavy-bowgun",
         "name": "Kjarr Assault \"Spark\"",
         "assets": {
-            "image": "No disponible"
+            "image": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/tarroth-assault-glutton.png"
         },
         "attack": {
             "display": 285
@@ -13996,7 +13996,7 @@
         "type": "heavy-bowgun",
         "name": "Kjarr Assault \"Water\"",
         "assets": {
-            "image": "No disponible"
+            "image": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/tarroth-assault-glutton.png"
         },
         "attack": {
             "display": 285
@@ -14007,7 +14007,7 @@
         "type": "light-bowgun",
         "name": "Devil's Madness",
         "assets": {
-            "image": "No disponible"
+            "image": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/devils_madness.png"
         },
         "attack": {
             "display": 299
@@ -14018,7 +14018,7 @@
         "type": "long-sword",
         "name": "Taroth Sword \"Fire\"",
         "assets": {
-            "image": "No disponible"
+            "image": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/taroth_sword_stream.png"
         },
         "attack": {
             "display": 660
@@ -14029,7 +14029,7 @@
         "type": "long-sword",
         "name": "Kjarr Sword \"Decay\"",
         "assets": {
-            "image": "No disponible"
+            "image": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/taroth_sword_stream.png"
         },
         "attack": {
             "display": 677
@@ -14040,7 +14040,7 @@
         "type": "dual-blades",
         "name": "Taroth Daggers \"Rage\"",
         "assets": {
-            "image": "No disponible"
+            "image": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/goldpoisontwinblades.png"
         },
         "attack": {
             "display": 294
@@ -14051,7 +14051,7 @@
         "type": "dual-blades",
         "name": "Taroth Daggers \"Spark\"",
         "assets": {
-            "image": "No disponible"
+            "image": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/goldpoisontwinblades.png"
         },
         "attack": {
             "display": 252
@@ -14062,7 +14062,7 @@
         "type": "dual-blades",
         "name": "Taroth Daggers \"Ice\"",
         "assets": {
-            "image": "No disponible"
+            "image": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/goldpoisontwinblades.png"
         },
         "attack": {
             "display": 266
@@ -14073,7 +14073,7 @@
         "type": "dual-blades",
         "name": "Taroth Daggers \"Water\"",
         "assets": {
-            "image": "No disponible"
+            "image": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/goldpoisontwinblades.png"
         },
         "attack": {
             "display": 266
@@ -14084,7 +14084,7 @@
         "type": "dual-blades",
         "name": "Kjarr Daggers \"Dragon\"",
         "assets": {
-            "image": "No disponible"
+            "image": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/goldpoisontwinblades.png"
         },
         "attack": {
             "display": 252
@@ -14095,7 +14095,7 @@
         "type": "dual-blades",
         "name": "Kjarr Daggers \"Ice\"",
         "assets": {
-            "image": "No disponible"
+            "image": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/goldpoisontwinblades.png"
         },
         "attack": {
             "display": 252
@@ -14106,7 +14106,7 @@
         "type": "dual-blades",
         "name": "Kjarr Daggers \"Lurk\"",
         "assets": {
-            "image": "No disponible"
+            "image": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/goldpoisontwinblades.png"
         },
         "attack": {
             "display": 224
@@ -14117,7 +14117,7 @@
         "type": "dual-blades",
         "name": "Kjarr Daggers \"Magma\"",
         "assets": {
-            "image": "No disponible"
+            "image": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/goldpoisontwinblades.png"
         },
         "attack": {
             "display": 266
@@ -14128,7 +14128,7 @@
         "type": "dual-blades",
         "name": "Kjarr Daggers \"Rage\"",
         "assets": {
-            "image": "No disponible"
+            "image": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/goldpoisontwinblades.png"
         },
         "attack": {
             "display": 280
@@ -14139,7 +14139,7 @@
         "type": "dual-blades",
         "name": "Kjarr Daggers \"Spark\"",
         "assets": {
-            "image": "No disponible"
+            "image": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/goldpoisontwinblades.png"
         },
         "attack": {
             "display": 252
@@ -14150,7 +14150,7 @@
         "type": "dual-blades",
         "name": "Kjarr Daggers \"Water\"",
         "assets": {
-            "image": "No disponible"
+            "image": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/goldpoisontwinblades.png"
         },
         "attack": {
             "display": 252
@@ -14161,7 +14161,7 @@
         "type": "dual-blades",
         "name": "Taroth Daggers \"Poison\"",
         "assets": {
-            "image": "No disponible"
+            "image": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/goldpoisontwinblades.png"
         },
         "attack": {
             "display": 266
@@ -14172,7 +14172,7 @@
         "type": "dual-blades",
         "name": "Taroth Daggers \"Fire\"",
         "assets": {
-            "image": "No disponible"
+            "image": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/goldpoisontwinblades.png"
         },
         "attack": {
             "display": 252
@@ -14183,7 +14183,7 @@
         "type": "sword-and-shield",
         "name": "Taroth Slicer \"Rage\"",
         "assets": {
-            "image": "No disponible"
+            "image": "https://cdn.kiranico.net/file/kiranico/mhworld-web/images/wp/icon/one/kRiEHee.png"
         },
         "attack": {
             "display": 294
@@ -14194,7 +14194,7 @@
         "type": "sword-and-shield",
         "name": "Taroth Slicer \"Mud\"",
         "assets": {
-            "image": "No disponible"
+            "image": "https://cdn.kiranico.net/file/kiranico/mhworld-web/images/wp/icon/one/kRiEHee.png"
         },
         "attack": {
             "display": 308
@@ -14205,7 +14205,7 @@
         "type": "sword-and-shield",
         "name": "Taroth Slicer \"Water\"",
         "assets": {
-            "image": "No disponible"
+            "image": "https://cdn.kiranico.net/file/kiranico/mhworld-web/images/wp/icon/one/kRiEHee.png"
         },
         "attack": {
             "display": 266
@@ -14216,7 +14216,7 @@
         "type": "sword-and-shield",
         "name": "Taroth Slicer \"Fire\"",
         "assets": {
-            "image": "No disponible"
+            "image": "https://cdn.kiranico.net/file/kiranico/mhworld-web/images/wp/icon/one/kRiEHee.png"
         },
         "attack": {
             "display": 252
@@ -14227,7 +14227,7 @@
         "type": "sword-and-shield",
         "name": "Kjarr Slicer \"Numb\"",
         "assets": {
-            "image": "No disponible"
+            "image": "https://cdn.kiranico.net/file/kiranico/mhworld-web/images/wp/icon/one/kRiEHee.png"
         },
         "attack": {
             "display": 252
@@ -14238,7 +14238,7 @@
         "type": "sword-and-shield",
         "name": "Kjarr Slicer \"Blast\"",
         "assets": {
-            "image": "No disponible"
+            "image": "https://cdn.kiranico.net/file/kiranico/mhworld-web/images/wp/icon/one/kRiEHee.png"
         },
         "attack": {
             "display": 224
@@ -14249,7 +14249,7 @@
         "type": "sword-and-shield",
         "name": "Kjarr Slicer \"Dragon\"",
         "assets": {
-            "image": "No disponible"
+            "image": "https://cdn.kiranico.net/file/kiranico/mhworld-web/images/wp/icon/one/kRiEHee.png"
         },
         "attack": {
             "display": 238
@@ -14260,7 +14260,7 @@
         "type": "sword-and-shield",
         "name": "Kjarr Slicer \"King\"",
         "assets": {
-            "image": "No disponible"
+            "image": "https://cdn.kiranico.net/file/kiranico/mhworld-web/images/wp/icon/one/kRiEHee.png"
         },
         "attack": {
             "display": 266
@@ -14271,7 +14271,7 @@
         "type": "sword-and-shield",
         "name": "Kjarr Slicer \"Myth\"",
         "assets": {
-            "image": "No disponible"
+            "image": "https://cdn.kiranico.net/file/kiranico/mhworld-web/images/wp/icon/one/kRiEHee.png"
         },
         "attack": {
             "display": 238
@@ -14282,7 +14282,7 @@
         "type": "sword-and-shield",
         "name": "Kjarr Slicer \"Stream\"",
         "assets": {
-            "image": "No disponible"
+            "image": "https://cdn.kiranico.net/file/kiranico/mhworld-web/images/wp/icon/one/kRiEHee.png"
         },
         "attack": {
             "display": 238
