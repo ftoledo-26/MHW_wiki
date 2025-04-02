@@ -54,8 +54,13 @@ header{
     
 }
 
-rathalos-boton{
-    background-color: none;
+.rathalos{
+    max-width: 500px;
+    max-height: 160px;
+    position: absolute;
+    z-index: 4;
+    top: -6%;
+    left: 25%;
 }
 
 input{
@@ -123,7 +128,7 @@ nav {
     padding: 20px;
     width: 70%;
     height: 96%;
-    box-shadow: 2px 0 5px rgba(0, 0, 0, 0.1);
+
 }
 
 a{
@@ -155,6 +160,7 @@ li{
 }
 
 footer{
+    padding-bottom: 20px;
     height: 10%;
     z-index: 5;
     background-color: #162555;
