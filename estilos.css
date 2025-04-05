@@ -121,6 +121,7 @@ nav {
     z-index: 2;
     background-color: #162555;
     padding: 20px;
+    padding-left: 40px;
     width: 70%;
     height: 96%;
 
@@ -133,23 +134,17 @@ a{
 }
 
 ul{
-   list-style-type: none;
    padding: 0;
    display: flex;
    justify-content: space-between
 
 }
 
-.uno .dos{
-    list-style-type: none;
-   padding: 0;
-   display: flex;
-   
-}
+
 
 li{
-   display: flex;
-   padding: 10px;
+    list-style: none;
+   padding-bottom: 10px;
    cursor: pointer;
    align-items: center;
 }
@@ -198,18 +193,10 @@ footer{
     ;
 
     border-radius: 5px;
-    padding: 5px;
+    padding-left: 50px;
     margin: 5px;
  }
- 
- .armas{
-     background-color: aquamarine;
-     border-radius: 5px;
-     padding: 5px;
-     margin: 5px;
-     width: auto;
- }
- 
+
  #header {
      margin:auto;
      width:500px;
@@ -385,3 +372,22 @@ footer{
     grid-template-columns: repeat(2, 1fr);
     gap: 10px;
 }
+
+
+
+
+/* Estilos para la pagina de contactanos */
+
+ul :hover{
+    list-style-image:url(imagenes/lafarillo.jpg);
+    color: white;
+    cursor:pointer;
+}
+
+nav-contacta :hover{
+    text-decoration: white;
+    color: white;
+    background-image: url(imagenes/lafarillo.jpg);
+}
+
+
