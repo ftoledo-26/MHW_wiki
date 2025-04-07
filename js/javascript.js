@@ -148,8 +148,8 @@ function mostrarArmaduras(){
                                 <h2>${pieza.name}</h2>
                                 <p>Tipo: ${pieza.type}</p>
                                 <div>
-                                    <img src="${pieza.assets.imageMale || ''}" alt="Imagen masculina de ${pieza.name}">
-                                    <img src="${pieza.assets.imageFemale || ''}" alt="Imagen femenina de ${pieza.name}">
+                                    <img loading="lazy" src="${pieza.assets.imageMale || ''}" alt="Imagen masculina de ${pieza.name}">
+                                    <img loading="lazy" src="${pieza.assets.imageFemale || ''}" alt="Imagen femenina de ${pieza.name}">
                                 </div>
                             </div>
                         `).join('')}
