@@ -80,7 +80,7 @@ function mostrarMonstruos() {
 
 
 function mostrarArmas(){
-    let ocupa = document.getElementById("contenedor-armadura");
+    let ocupa = document.getElementById("container_armas");
     ocupa.innerHTML = "";
 
     fetch(`http://localhost:3001/Armas`)
