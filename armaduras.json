@@ -5758,6 +5758,7 @@
                 "assets": {
                     "imageMale": "https://static.wikia.nocookie.net/monsterhunter/images/d/d7/1stGen-Question_Mark_Icon.svg/revision/latest/smart/width/250/height/250?cb=20210129022741",
                     "imageFemale": "https://static.wikia.nocookie.net/monsterhunter/images/d/d7/1stGen-Question_Mark_Icon.svg/revision/latest/smart/width/250/height/250?cb=20210129022741"
+
                 }
             }
         ]
@@ -6026,8 +6027,10 @@
                 "name": "Kushala Glare Beta",
                 "type": "head",
                 "assets": {
+
                     "imageMale": "https://static.wikia.nocookie.net/monsterhunter/images/d/d7/1stGen-Question_Mark_Icon.svg/revision/latest/smart/width/250/height/250?cb=20210129022741",
                     "imageFemale": "https://static.wikia.nocookie.net/monsterhunter/images/d/d7/1stGen-Question_Mark_Icon.svg/revision/latest/smart/width/250/height/250?cb=20210129022741"
+
                 }
             },
             {
@@ -7020,6 +7023,7 @@
                 "type": "head",
                 "assets": {
                     "imageMale": "https://static.wikia.nocookie.net/monsterhunter/images/d/d7/1stGen-Question_Mark_Icon.svg/revision/latest/smart/width/250/height/250?cb=20210129022741",
+
                     "imageFemale": "https://static.wikia.nocookie.net/monsterhunter/images/d/d7/1stGen-Question_Mark_Icon.svg/revision/latest/smart/width/250/height/250?cb=20210129022741"
                 }
             },
@@ -7029,6 +7033,7 @@
                 "type": "chest",
                 "assets": {
                     "imageMale": "https://static.wikia.nocookie.net/monsterhunter/images/d/d7/1stGen-Question_Mark_Icon.svg/revision/latest/smart/width/250/height/250?cb=20210129022741",
+
                     "imageFemale": "https://static.wikia.nocookie.net/monsterhunter/images/d/d7/1stGen-Question_Mark_Icon.svg/revision/latest/smart/width/250/height/250?cb=20210129022741"
                 }
             },
@@ -7047,7 +7052,7 @@
                 "type": "waist",
                 "assets": {
                     "imageMale": "https://static.wikia.nocookie.net/monsterhunter/images/d/d7/1stGen-Question_Mark_Icon.svg/revision/latest/smart/width/250/height/250?cb=20210129022741",
-                    "imageFemale": "https://assets.mhw-db.com/armor/57007ad399fb917a5bf35606b2c4af4ee5db0183.08a38f727ca1cb97d0fbfd02f6ab49cf.png"
+                    "imageFemale": "https://static.wikia.nocookie.net/monsterhunter/images/d/d7/1stGen-Question_Mark_Icon.svg/revision/latest/smart/width/250/height/250?cb=20210129022741"
                 }
             },
             {
@@ -7055,7 +7060,9 @@
                 "name": "Kirin Leg Guards Gamma",
                 "type": "legs",
                 "assets": {
+
                     "imageMale": "https://static.wikia.nocookie.net/monsterhunter/images/d/d7/1stGen-Question_Mark_Icon.svg/revision/latest/smart/width/250/height/250?cb=20210129022741",
+
                     "imageFemale": "https://static.wikia.nocookie.net/monsterhunter/images/d/d7/1stGen-Question_Mark_Icon.svg/revision/latest/smart/width/250/height/250?cb=20210129022741"
                 }
             }

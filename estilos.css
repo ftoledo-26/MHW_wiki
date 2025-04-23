@@ -31,6 +31,18 @@ body{
      margin:0px;
      padding:0px;
      max-width: 100%;
+     
+ }
+
+h2{
+    text-align: center;
+    align-items: center;
+}
+
+ .musica{
+    position: relative;
+    z-index: 5;
+
  }
  
  #monster{
@@ -129,6 +141,7 @@ nav {
     padding-left: 40px;
     width: 70%;
     height: 96%;
+
 }
 
 a{
@@ -138,7 +151,6 @@ a{
 }
 
 ul{
-   padding: 0;
    display: flex;
    justify-content: space-between
 
@@ -159,11 +171,20 @@ footer{
     height: 10%;
     z-index: 5;
     background-color: #24262c;
+    align-self: center;
+    color: white;
+    
+}
+
+.copy{
+    filter: brightness(1.5) drop-shadow(0 0 10px #61ff79);
 }
 
 .logo-armas{
     max-width: 20px;
     max-height: 20px;
+    border: none;
+    border-radius: 6px;
 }
 
 .db-image{
@@ -183,11 +204,12 @@ footer{
  }
  
  .monstruos{
+    max-width: 700px;
      position: relative;
      z-index: 2;
      background-color: #999999;
      border-radius: 5px;
-     padding: 5px;
+     padding: 0 150px 0 150px;
      margin: 5px;
  }
  
