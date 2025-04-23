@@ -141,8 +141,6 @@ nav {
     padding-left: 40px;
     width: 70%;
     height: 96%;
-    margin: 0 auto;
-    
 
 }
 
@@ -161,10 +159,11 @@ ul{
 
 
 li{
-    list-style: none;
+   list-style: none;
    padding-bottom: 10px;
    cursor: pointer;
    align-items: center;
+   padding: 10px;
 }
 
 footer{
