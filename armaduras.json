@@ -59,8 +59,8 @@
                 "name": "Chainmail Headgear",
                 "type": "head",
                 "assets": {
-                    "imageMale": "https://assets.mhw-db.com/armor/9067d30515d01c6739160f65c680f49c12bf0c06.d20ffa258ec987a3638a7f6bb4c63761.png",
-                    "imageFemale": "https://assets.mhw-db.com/armor/9067d30515d01c6739160f65c680f49c12bf0c06.d20ffa258ec987a3638a7f6bb4c63761.png"
+                    "imageMale": "https://static.wikia.nocookie.net/monsterhunter/images/d/d7/1stGen-Question_Mark_Icon.svg/revision/latest/smart/width/250/height/250?cb=20210129022741",
+                    "imageFemale": "https://static.wikia.nocookie.net/monsterhunter/images/d/d7/1stGen-Question_Mark_Icon.svg/revision/latest/smart/width/250/height/250?cb=20210129022741"
                 }
             },
             {
@@ -161,8 +161,8 @@
                 "name": "Bone Helm",
                 "type": "head",
                 "assets": {
-                    "imageMale": "https://assets.mhw-db.com/armor/9067d30515d01c6739160f65c680f49c12bf0c06.d20ffa258ec987a3638a7f6bb4c63761.png",
-                    "imageFemale": "https://assets.mhw-db.com/armor/9067d30515d01c6739160f65c680f49c12bf0c06.d20ffa258ec987a3638a7f6bb4c63761.png"
+                    "imageMale": "https://static.wikia.nocookie.net/monsterhunter/images/d/d7/1stGen-Question_Mark_Icon.svg/revision/latest/smart/width/250/height/250?cb=20210129022741",
+                    "imageFemale": "https://static.wikia.nocookie.net/monsterhunter/images/d/d7/1stGen-Question_Mark_Icon.svg/revision/latest/smart/width/250/height/250?cb=20210129022741"
                 }
             },
             {
@@ -533,7 +533,7 @@
                 "name": "Barroth Greaves",
                 "type": "legs",
                 "assets": {
-                    "imageMale": "https://assets.mhw-db.com/armor/c5c55c125f9ac5c9c2e074fcf171bdffd20af8e9.f428ae0c7a70bdccec78a78641054669.png",
+                    "imageMale": "https://static.wikia.nocookie.net/monsterhunter/images/d/d7/1stGen-Question_Mark_Icon.svg/revision/latest/smart/width/250/height/250?cb=20210129022741",
                     "imageFemale": "https://assets.mhw-db.com/armor/8a310ee637d9043af8d171d71da9d65d32676907.194c998c67f11ad565125451f2b46d72.png"
                 }
             }
@@ -702,7 +702,7 @@
                 "type": "head",
                 "assets": {
                     "imageMale": "https://assets.mhw-db.com/armor/97152146c778825566cd0001911a230fd7ccc47d.bdadd88fa6679f3d2935314598b0d7bd.png",
-                    "imageFemale": null
+                    "imageFemale": "https://static.wikia.nocookie.net/monsterhunter/images/d/d7/1stGen-Question_Mark_Icon.svg/revision/latest/smart/width/250/height/250?cb=20210129022741"
                 }
             },
             {
@@ -711,7 +711,7 @@
                 "type": "chest",
                 "assets": {
                     "imageMale": "https://assets.mhw-db.com/armor/21ce570330b01140639fb4623902053c8c794636.72c35bc649a79ccfd2ee9259090e6d2d.png",
-                    "imageFemale": null
+                    "imageFemale": "https://static.wikia.nocookie.net/monsterhunter/images/d/d7/1stGen-Question_Mark_Icon.svg/revision/latest/smart/width/250/height/250?cb=20210129022741"
                 }
             },
             {
@@ -720,7 +720,7 @@
                 "type": "gloves",
                 "assets": {
                     "imageMale": "https://assets.mhw-db.com/armor/f9ecc019e97c4e84734c02d14380743f902583c7.ba3ea5b27a74696dad8aae2b02b553fe.png",
-                    "imageFemale": null
+                    "imageFemale": "https://static.wikia.nocookie.net/monsterhunter/images/d/d7/1stGen-Question_Mark_Icon.svg/revision/latest/smart/width/250/height/250?cb=20210129022741"
                 }
             },
             {
@@ -729,7 +729,7 @@
                 "type": "waist",
                 "assets": {
                     "imageMale": "https://assets.mhw-db.com/armor/7d87f9c9ec6c4c63d8014ea578b019667ea00d6b.fb71f04448ec6968252e235d80dc23b4.png",
-                    "imageFemale": null
+                    "imageFemale": "https://static.wikia.nocookie.net/monsterhunter/images/d/d7/1stGen-Question_Mark_Icon.svg/revision/latest/smart/width/250/height/250?cb=20210129022741"
                 }
             },
             {
@@ -738,7 +738,7 @@
                 "type": "legs",
                 "assets": {
                     "imageMale": "https://assets.mhw-db.com/armor/5557b71cb94434f4eaa4395fd506fd8ba7123539.2466d32d685307055456c5627f8c48cc.png",
-                    "imageFemale": null
+                    "imageFemale": "https://static.wikia.nocookie.net/monsterhunter/images/d/d7/1stGen-Question_Mark_Icon.svg/revision/latest/smart/width/250/height/250?cb=20210129022741"
                 }
             }
         ]
@@ -753,7 +753,7 @@
                 "type": "head",
                 "assets": {
                     "imageMale": "https://static.wikia.nocookie.net/monsterhunter/images/d/d7/1stGen-Question_Mark_Icon.svg/revision/latest/smart/width/250/height/250?cb=20210129022741",
-                    "imageFemale": "https://assets.mhw-db.com/armor/9067d30515d01c6739160f65c680f49c12bf0c06.d20ffa258ec987a3638a7f6bb4c63761.png"
+                    "imageFemale": "https://static.wikia.nocookie.net/monsterhunter/images/d/d7/1stGen-Question_Mark_Icon.svg/revision/latest/smart/width/250/height/250?cb=20210129022741"
                 }
             },
             {
@@ -788,7 +788,7 @@
                 "name": "Butterfly Crura",
                 "type": "legs",
                 "assets": {
-                    "imageMale": null,
+                    "imageMale": "https://static.wikia.nocookie.net/monsterhunter/images/d/d7/1stGen-Question_Mark_Icon.svg/revision/latest/smart/width/250/height/250?cb=20210129022741",
                     "imageFemale": "https://assets.mhw-db.com/armor/7a97b65d67f58c4c93ed482596e265114114e3e8.c4e3c8b7117c418b3f6c7b222bb0002c.png"
                 }
             }
@@ -1685,8 +1685,8 @@
                 "name": "Chainmail Headgear Alpha",
                 "type": "head",
                 "assets": {
-                    "imageMale": "https://assets.mhw-db.com/armor/9067d30515d01c6739160f65c680f49c12bf0c06.d20ffa258ec987a3638a7f6bb4c63761.png",
-                    "imageFemale": "https://assets.mhw-db.com/armor/9067d30515d01c6739160f65c680f49c12bf0c06.d20ffa258ec987a3638a7f6bb4c63761.png"
+                    "imageMale": "https://static.wikia.nocookie.net/monsterhunter/images/d/d7/1stGen-Question_Mark_Icon.svg/revision/latest/smart/width/250/height/250?cb=20210129022741",
+                    "imageFemale": "https://static.wikia.nocookie.net/monsterhunter/images/d/d7/1stGen-Question_Mark_Icon.svg/revision/latest/smart/width/250/height/250?cb=20210129022741"
                 }
             },
             {
@@ -1736,8 +1736,8 @@
                 "name": "Chainmail Headgear Beta",
                 "type": "head",
                 "assets": {
-                    "imageMale": "https://assets.mhw-db.com/armor/9067d30515d01c6739160f65c680f49c12bf0c06.d20ffa258ec987a3638a7f6bb4c63761.png",
-                    "imageFemale": "https://assets.mhw-db.com/armor/9067d30515d01c6739160f65c680f49c12bf0c06.d20ffa258ec987a3638a7f6bb4c63761.png"
+                    "imageMale": "https://static.wikia.nocookie.net/monsterhunter/images/d/d7/1stGen-Question_Mark_Icon.svg/revision/latest/smart/width/250/height/250?cb=20210129022741",
+                    "imageFemale": "https://static.wikia.nocookie.net/monsterhunter/images/d/d7/1stGen-Question_Mark_Icon.svg/revision/latest/smart/width/250/height/250?cb=20210129022741"
                 }
             },
             {
@@ -1889,8 +1889,8 @@
                 "name": "Bone Helm Alpha",
                 "type": "head",
                 "assets": {
-                    "imageMale": "https://assets.mhw-db.com/armor/9067d30515d01c6739160f65c680f49c12bf0c06.d20ffa258ec987a3638a7f6bb4c63761.png",
-                    "imageFemale": "https://assets.mhw-db.com/armor/9067d30515d01c6739160f65c680f49c12bf0c06.d20ffa258ec987a3638a7f6bb4c63761.png"
+                    "imageMale": "https://static.wikia.nocookie.net/monsterhunter/images/d/d7/1stGen-Question_Mark_Icon.svg/revision/latest/smart/width/250/height/250?cb=20210129022741",
+                    "imageFemale": "https://static.wikia.nocookie.net/monsterhunter/images/d/d7/1stGen-Question_Mark_Icon.svg/revision/latest/smart/width/250/height/250?cb=20210129022741"
                 }
             },
             {
@@ -1940,8 +1940,8 @@
                 "name": "Bone Helm Beta",
                 "type": "head",
                 "assets": {
-                    "imageMale": "https://assets.mhw-db.com/armor/9067d30515d01c6739160f65c680f49c12bf0c06.d20ffa258ec987a3638a7f6bb4c63761.png",
-                    "imageFemale": "https://assets.mhw-db.com/armor/9067d30515d01c6739160f65c680f49c12bf0c06.d20ffa258ec987a3638a7f6bb4c63761.png"
+                    "imageMale": "https://static.wikia.nocookie.net/monsterhunter/images/d/d7/1stGen-Question_Mark_Icon.svg/revision/latest/smart/width/250/height/250?cb=20210129022741",
+                    "imageFemale": "https://static.wikia.nocookie.net/monsterhunter/images/d/d7/1stGen-Question_Mark_Icon.svg/revision/latest/smart/width/250/height/250?cb=20210129022741"
                 }
             },
             {
@@ -2094,7 +2094,7 @@
                 "type": "head",
                 "assets": {
                     "imageMale": "https://assets.mhw-db.com/armor/a1e5f452b3b5b971470663b611294be888f6e984.4e649d679958f6a6b078ac80922bae97.png",
-                    "imageFemale": null
+                    "imageFemale": "https://static.wikia.nocookie.net/monsterhunter/images/d/d7/1stGen-Question_Mark_Icon.svg/revision/latest/smart/width/250/height/250?cb=20210129022741"
                 }
             },
             {
@@ -2103,7 +2103,7 @@
                 "type": "chest",
                 "assets": {
                     "imageMale": "https://assets.mhw-db.com/armor/cef9ac9ca8e59f138f7c394d884d5f4180a68e77.f55966e67e42412a71a95b37e3919e05.png",
-                    "imageFemale": null
+                    "imageFemale": "https://static.wikia.nocookie.net/monsterhunter/images/d/d7/1stGen-Question_Mark_Icon.svg/revision/latest/smart/width/250/height/250?cb=20210129022741"
                 }
             },
             {
@@ -2112,7 +2112,7 @@
                 "type": "gloves",
                 "assets": {
                     "imageMale": "https://assets.mhw-db.com/armor/a55c393a6a3f9bf6cf2c15acc6e9cfd39d8cfd3a.8a7638183ffe7e8825b16b34fb7fa73c.png",
-                    "imageFemale": null
+                    "imageFemale": "https://static.wikia.nocookie.net/monsterhunter/images/d/d7/1stGen-Question_Mark_Icon.svg/revision/latest/smart/width/250/height/250?cb=20210129022741"
                 }
             },
             {
@@ -2121,7 +2121,7 @@
                 "type": "waist",
                 "assets": {
                     "imageMale": "https://assets.mhw-db.com/armor/a11d7e7ba8315a7f0ecb2b6f60bfb0e4fba85ab5.1af4ae5b7d7b3d3dec31eb4718dc9aeb.png",
-                    "imageFemale": null
+                    "imageFemale": "https://static.wikia.nocookie.net/monsterhunter/images/d/d7/1stGen-Question_Mark_Icon.svg/revision/latest/smart/width/250/height/250?cb=20210129022741"
                 }
             },
             {
@@ -2130,7 +2130,7 @@
                 "type": "legs",
                 "assets": {
                     "imageMale": "https://assets.mhw-db.com/armor/a3a4d21e6f4bfcc2886a0e2eb8452b839496a3e3.a31bfd748707494fb23e5fddca8595b5.png",
-                    "imageFemale": null
+                    "imageFemale": "https://static.wikia.nocookie.net/monsterhunter/images/d/d7/1stGen-Question_Mark_Icon.svg/revision/latest/smart/width/250/height/250?cb=20210129022741"
                 }
             }
         ]
@@ -2145,7 +2145,7 @@
                 "type": "head",
                 "assets": {
                     "imageMale": "https://assets.mhw-db.com/armor/f0592df14eaf5ef30af1c74e84d0e62506b45adc.eed0e2283ca585e852e7ddff4d860228.png",
-                    "imageFemale": null
+                    "imageFemale": "https://static.wikia.nocookie.net/monsterhunter/images/d/d7/1stGen-Question_Mark_Icon.svg/revision/latest/smart/width/250/height/250?cb=20210129022741"
                 }
             },
             {
@@ -2154,7 +2154,7 @@
                 "type": "chest",
                 "assets": {
                     "imageMale": "https://assets.mhw-db.com/armor/ea539c246d2b0d5fadfab6ff45038e0067f7fc84.d15366e7acd87e987ca0a52ef1619316.png",
-                    "imageFemale": null
+                    "imageFemale": "https://static.wikia.nocookie.net/monsterhunter/images/d/d7/1stGen-Question_Mark_Icon.svg/revision/latest/smart/width/250/height/250?cb=20210129022741"
                 }
             },
             {
@@ -2163,7 +2163,7 @@
                 "type": "gloves",
                 "assets": {
                     "imageMale": "https://assets.mhw-db.com/armor/7118a4e0069b0c40e990a7084f1c83eadd98d42f.7702be3a11ff04bb41f8c503ba4b938b.png",
-                    "imageFemale": null
+                    "imageFemale": "https://static.wikia.nocookie.net/monsterhunter/images/d/d7/1stGen-Question_Mark_Icon.svg/revision/latest/smart/width/250/height/250?cb=20210129022741"
                 }
             },
             {
@@ -2172,7 +2172,7 @@
                 "type": "waist",
                 "assets": {
                     "imageMale": "https://assets.mhw-db.com/armor/9a703cca303d690e4e2f6a5ce7e103e3717590ba.06eceda06e361308b7990be7804959e1.png",
-                    "imageFemale": null
+                    "imageFemale": "https://static.wikia.nocookie.net/monsterhunter/images/d/d7/1stGen-Question_Mark_Icon.svg/revision/latest/smart/width/250/height/250?cb=20210129022741"
                 }
             },
             {
@@ -2181,7 +2181,7 @@
                 "type": "legs",
                 "assets": {
                     "imageMale": "https://assets.mhw-db.com/armor/2f3227092b516400cf1eca2dc45f522b9823f5a9.9d160767cb28353b1c23e7111017bb63.png",
-                    "imageFemale": null
+                    "imageFemale": "https://static.wikia.nocookie.net/monsterhunter/images/d/d7/1stGen-Question_Mark_Icon.svg/revision/latest/smart/width/250/height/250?cb=20210129022741"
                 }
             }
         ]
@@ -2196,7 +2196,7 @@
                 "type": "head",
                 "assets": {
                     "imageMale": "https://static.wikia.nocookie.net/monsterhunter/images/d/d7/1stGen-Question_Mark_Icon.svg/revision/latest/smart/width/250/height/250?cb=20210129022741",
-                    "imageFemale": "https://assets.mhw-db.com/armor/9067d30515d01c6739160f65c680f49c12bf0c06.d20ffa258ec987a3638a7f6bb4c63761.png"
+                    "imageFemale": "https://static.wikia.nocookie.net/monsterhunter/images/d/d7/1stGen-Question_Mark_Icon.svg/revision/latest/smart/width/250/height/250?cb=20210129022741"
                 }
             },
             {
@@ -2231,7 +2231,7 @@
                 "name": "Butterfly Crura Alpha",
                 "type": "legs",
                 "assets": {
-                    "imageMale": null,
+                    "imageMale": "https://static.wikia.nocookie.net/monsterhunter/images/d/d7/1stGen-Question_Mark_Icon.svg/revision/latest/smart/width/250/height/250?cb=20210129022741",
                     "imageFemale": "https://assets.mhw-db.com/armor/97083030d2d06f21e4e0bef4b078bad128a5a448.bab54ae18778b939d47517ceece83441.png"
                 }
             }
@@ -2247,7 +2247,7 @@
                 "type": "head",
                 "assets": {
                     "imageMale": "https://static.wikia.nocookie.net/monsterhunter/images/d/d7/1stGen-Question_Mark_Icon.svg/revision/latest/smart/width/250/height/250?cb=20210129022741",
-                    "imageFemale": "https://assets.mhw-db.com/armor/9067d30515d01c6739160f65c680f49c12bf0c06.d20ffa258ec987a3638a7f6bb4c63761.png"
+                    "imageFemale": "https://static.wikia.nocookie.net/monsterhunter/images/d/d7/1stGen-Question_Mark_Icon.svg/revision/latest/smart/width/250/height/250?cb=20210129022741"
                 }
             },
             {
@@ -2282,7 +2282,7 @@
                 "name": "Butterfly Crura Beta",
                 "type": "legs",
                 "assets": {
-                    "imageMale": null,
+                    "imageMale": "https://static.wikia.nocookie.net/monsterhunter/images/d/d7/1stGen-Question_Mark_Icon.svg/revision/latest/smart/width/250/height/250?cb=20210129022741",
                     "imageFemale": "https://assets.mhw-db.com/armor/08cee3d487ea51296a35d22db8c2bb4ba3d7ee8a.817f7b7424029ce23c477b37e7cdc584.png"
                 }
             }
@@ -2898,7 +2898,7 @@
                 "type": "legs",
                 "assets": {
                     "imageMale": "https://assets.mhw-db.com/armor/16b718bc832302d1ca4dc48050171264ef4dde54.3ebc8950a7460811c12ed216c31e493b.png",
-                    "imageFemale": "https://assets.mhw-db.com/armor/abd6311f80de140f81ce35cedd1bd77e3ed59c2b.fc369c2cc3a71c4638bdeecf13643b00.png"
+                    "imageFemale": "https://static.wikia.nocookie.net/monsterhunter/images/d/d7/1stGen-Question_Mark_Icon.svg/revision/latest/smart/width/250/height/250?cb=20210129022741"
                 }
             }
         ]
@@ -3116,8 +3116,8 @@
                 "name": "Barroth Helm Alpha",
                 "type": "head",
                 "assets": {
-                    "imageMale": "https://assets.mhw-db.com/armor/9067d30515d01c6739160f65c680f49c12bf0c06.d20ffa258ec987a3638a7f6bb4c63761.png",
-                    "imageFemale": "https://assets.mhw-db.com/armor/9067d30515d01c6739160f65c680f49c12bf0c06.d20ffa258ec987a3638a7f6bb4c63761.png"
+                    "imageMale": "https://static.wikia.nocookie.net/monsterhunter/images/d/d7/1stGen-Question_Mark_Icon.svg/revision/latest/smart/width/250/height/250?cb=20210129022741",
+                    "imageFemale": "https://static.wikia.nocookie.net/monsterhunter/images/d/d7/1stGen-Question_Mark_Icon.svg/revision/latest/smart/width/250/height/250?cb=20210129022741"
                 }
             },
             {
@@ -3167,8 +3167,8 @@
                 "name": "Barroth Helm Beta",
                 "type": "head",
                 "assets": {
-                    "imageMale": "https://assets.mhw-db.com/armor/9067d30515d01c6739160f65c680f49c12bf0c06.d20ffa258ec987a3638a7f6bb4c63761.png",
-                    "imageFemale": "https://assets.mhw-db.com/armor/9067d30515d01c6739160f65c680f49c12bf0c06.d20ffa258ec987a3638a7f6bb4c63761.png"
+                    "imageMale": "https://static.wikia.nocookie.net/monsterhunter/images/d/d7/1stGen-Question_Mark_Icon.svg/revision/latest/smart/width/250/height/250?cb=20210129022741",
+                    "imageFemale": "https://static.wikia.nocookie.net/monsterhunter/images/d/d7/1stGen-Question_Mark_Icon.svg/revision/latest/smart/width/250/height/250?cb=20210129022741"
                 }
             },
             {
@@ -3510,7 +3510,7 @@
                 "type": "legs",
                 "assets": {
                     "imageMale": "https://assets.mhw-db.com/armor/431e992171626e9e8109fccdb497219ffe4b9c07.91d65de2714a1ea558ac00adda034a38.png",
-                    "imageFemale": "https://assets.mhw-db.com/armor/abd6311f80de140f81ce35cedd1bd77e3ed59c2b.fc369c2cc3a71c4638bdeecf13643b00.png"
+                    "imageFemale": "https://static.wikia.nocookie.net/monsterhunter/images/d/d7/1stGen-Question_Mark_Icon.svg/revision/latest/smart/width/250/height/250?cb=20210129022741"
                 }
             }
         ]
@@ -3677,8 +3677,8 @@
                 "name": "Rathian Helm Beta",
                 "type": "head",
                 "assets": {
-                    "imageMale": "https://assets.mhw-db.com/armor/9067d30515d01c6739160f65c680f49c12bf0c06.d20ffa258ec987a3638a7f6bb4c63761.png",
-                    "imageFemale": "https://assets.mhw-db.com/armor/9067d30515d01c6739160f65c680f49c12bf0c06.d20ffa258ec987a3638a7f6bb4c63761.png"
+                    "imageMale": "https://static.wikia.nocookie.net/monsterhunter/images/d/d7/1stGen-Question_Mark_Icon.svg/revision/latest/smart/width/250/height/250?cb=20210129022741",
+                    "imageFemale": "https://static.wikia.nocookie.net/monsterhunter/images/d/d7/1stGen-Question_Mark_Icon.svg/revision/latest/smart/width/250/height/250?cb=20210129022741"
                 }
             },
             {
@@ -3830,8 +3830,8 @@
                 "name": "Baan Helm Alpha",
                 "type": "head",
                 "assets": {
-                    "imageMale": "https://assets.mhw-db.com/armor/9067d30515d01c6739160f65c680f49c12bf0c06.d20ffa258ec987a3638a7f6bb4c63761.png",
-                    "imageFemale": "https://assets.mhw-db.com/armor/9067d30515d01c6739160f65c680f49c12bf0c06.d20ffa258ec987a3638a7f6bb4c63761.png"
+                    "imageMale": "https://static.wikia.nocookie.net/monsterhunter/images/d/d7/1stGen-Question_Mark_Icon.svg/revision/latest/smart/width/250/height/250?cb=20210129022741",
+                    "imageFemale": "https://static.wikia.nocookie.net/monsterhunter/images/d/d7/1stGen-Question_Mark_Icon.svg/revision/latest/smart/width/250/height/250?cb=20210129022741"
                 }
             },
             {
@@ -3881,8 +3881,8 @@
                 "name": "Baan Helm Beta",
                 "type": "head",
                 "assets": {
-                    "imageMale": "https://assets.mhw-db.com/armor/9067d30515d01c6739160f65c680f49c12bf0c06.d20ffa258ec987a3638a7f6bb4c63761.png",
-                    "imageFemale": "https://assets.mhw-db.com/armor/9067d30515d01c6739160f65c680f49c12bf0c06.d20ffa258ec987a3638a7f6bb4c63761.png"
+                    "imageMale": "https://static.wikia.nocookie.net/monsterhunter/images/d/d7/1stGen-Question_Mark_Icon.svg/revision/latest/smart/width/250/height/250?cb=20210129022741",
+                    "imageFemale": "https://static.wikia.nocookie.net/monsterhunter/images/d/d7/1stGen-Question_Mark_Icon.svg/revision/latest/smart/width/250/height/250?cb=20210129022741"
                 }
             },
             {
@@ -4487,8 +4487,8 @@
                 "name": "Brigade Boots Beta",
                 "type": "legs",
                 "assets": {
-                    "imageMale": "https://assets.mhw-db.com/armor/c5c55c125f9ac5c9c2e074fcf171bdffd20af8e9.f428ae0c7a70bdccec78a78641054669.png",
-                    "imageFemale": "https://assets.mhw-db.com/armor/abd6311f80de140f81ce35cedd1bd77e3ed59c2b.fc369c2cc3a71c4638bdeecf13643b00.png"
+                    "imageMale": "https://static.wikia.nocookie.net/monsterhunter/images/d/d7/1stGen-Question_Mark_Icon.svg/revision/latest/smart/width/250/height/250?cb=20210129022741",
+                    "imageFemale": "https://static.wikia.nocookie.net/monsterhunter/images/d/d7/1stGen-Question_Mark_Icon.svg/revision/latest/smart/width/250/height/250?cb=20210129022741"
                 }
             }
         ]
@@ -4583,8 +4583,8 @@
                 "name": "Lavasioth Helm Beta",
                 "type": "head",
                 "assets": {
-                    "imageMale": "https://assets.mhw-db.com/armor/9067d30515d01c6739160f65c680f49c12bf0c06.d20ffa258ec987a3638a7f6bb4c63761.png",
-                    "imageFemale": "https://assets.mhw-db.com/armor/9067d30515d01c6739160f65c680f49c12bf0c06.d20ffa258ec987a3638a7f6bb4c63761.png"
+                    "imageMale": "https://static.wikia.nocookie.net/monsterhunter/images/d/d7/1stGen-Question_Mark_Icon.svg/revision/latest/smart/width/250/height/250?cb=20210129022741",
+                    "imageFemale": "https://static.wikia.nocookie.net/monsterhunter/images/d/d7/1stGen-Question_Mark_Icon.svg/revision/latest/smart/width/250/height/250?cb=20210129022741"
                 }
             },
             {
@@ -4889,8 +4889,8 @@
                 "name": "Rathalos Helm Beta",
                 "type": "head",
                 "assets": {
-                    "imageMale": "https://assets.mhw-db.com/armor/9067d30515d01c6739160f65c680f49c12bf0c06.d20ffa258ec987a3638a7f6bb4c63761.png",
-                    "imageFemale": "https://assets.mhw-db.com/armor/9067d30515d01c6739160f65c680f49c12bf0c06.d20ffa258ec987a3638a7f6bb4c63761.png"
+                    "imageMale": "https://static.wikia.nocookie.net/monsterhunter/images/d/d7/1stGen-Question_Mark_Icon.svg/revision/latest/smart/width/250/height/250?cb=20210129022741",
+                    "imageFemale": "https://static.wikia.nocookie.net/monsterhunter/images/d/d7/1stGen-Question_Mark_Icon.svg/revision/latest/smart/width/250/height/250?cb=20210129022741"
                 }
             },
             {
@@ -5348,8 +5348,8 @@
                 "name": "Bazel Helm Alpha",
                 "type": "head",
                 "assets": {
-                    "imageMale": "https://assets.mhw-db.com/armor/9067d30515d01c6739160f65c680f49c12bf0c06.d20ffa258ec987a3638a7f6bb4c63761.png",
-                    "imageFemale": "https://assets.mhw-db.com/armor/9067d30515d01c6739160f65c680f49c12bf0c06.d20ffa258ec987a3638a7f6bb4c63761.png"
+                    "imageMale": "https://static.wikia.nocookie.net/monsterhunter/images/d/d7/1stGen-Question_Mark_Icon.svg/revision/latest/smart/width/250/height/250?cb=20210129022741",
+                    "imageFemale": "https://static.wikia.nocookie.net/monsterhunter/images/d/d7/1stGen-Question_Mark_Icon.svg/revision/latest/smart/width/250/height/250?cb=20210129022741"
                 }
             },
             {
@@ -5399,8 +5399,8 @@
                 "name": "Bazel Helm Beta",
                 "type": "head",
                 "assets": {
-                    "imageMale": "https://assets.mhw-db.com/armor/9067d30515d01c6739160f65c680f49c12bf0c06.d20ffa258ec987a3638a7f6bb4c63761.png",
-                    "imageFemale": "https://assets.mhw-db.com/armor/9067d30515d01c6739160f65c680f49c12bf0c06.d20ffa258ec987a3638a7f6bb4c63761.png"
+                    "imageMale": "https://static.wikia.nocookie.net/monsterhunter/images/d/d7/1stGen-Question_Mark_Icon.svg/revision/latest/smart/width/250/height/250?cb=20210129022741",
+                    "imageFemale": "https://static.wikia.nocookie.net/monsterhunter/images/d/d7/1stGen-Question_Mark_Icon.svg/revision/latest/smart/width/250/height/250?cb=20210129022741"
                 }
             },
             {
@@ -5756,8 +5756,9 @@
                 "name": "Skull Mask Alpha",
                 "type": "head",
                 "assets": {
-                    "imageMale": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/skull_mask_alpha_male.png",
-                    "imageFemale": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/skull_mask_alpha_male.png"
+                    "imageMale": "https://static.wikia.nocookie.net/monsterhunter/images/d/d7/1stGen-Question_Mark_Icon.svg/revision/latest/smart/width/250/height/250?cb=20210129022741",
+                    "imageFemale": "https://static.wikia.nocookie.net/monsterhunter/images/d/d7/1stGen-Question_Mark_Icon.svg/revision/latest/smart/width/250/height/250?cb=20210129022741"
+
                 }
             }
         ]
@@ -6026,8 +6027,10 @@
                 "name": "Kushala Glare Beta",
                 "type": "head",
                 "assets": {
-                    "imageMale": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/kushala_glare_beta_plus_male_mhw-wiki-guide.png",
-                    "imageFemale": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/kushala-glare-beta-female-mhw-wiki-guide.png"
+
+                    "imageMale": "https://static.wikia.nocookie.net/monsterhunter/images/d/d7/1stGen-Question_Mark_Icon.svg/revision/latest/smart/width/250/height/250?cb=20210129022741",
+                    "imageFemale": "https://static.wikia.nocookie.net/monsterhunter/images/d/d7/1stGen-Question_Mark_Icon.svg/revision/latest/smart/width/250/height/250?cb=20210129022741"
+
                 }
             },
             {
@@ -6384,7 +6387,7 @@
                 "type": "head",
                 "assets": {
                     "imageMale": "https://assets.mhw-db.com/armor/1648af5a547be5dd3794c88b5fdcf2d6dc4d4d5c.6ea407339ab13983f0ee120123543402.png",
-                    "imageFemale": "https://assets.mhw-db.com/armor/a30d7cf3ff696e07e746aeed1f593a90648a435f.a9ff8627de743cb13e3b1fe48461ec0f.png"
+                    "imageFemale": "https://static.wikia.nocookie.net/monsterhunter/images/d/d7/1stGen-Question_Mark_Icon.svg/revision/latest/smart/width/250/height/250?cb=20210129022741"
                 }
             },
             {
@@ -6393,7 +6396,7 @@
                 "type": "chest",
                 "assets": {
                     "imageMale": "https://assets.mhw-db.com/armor/0bcadfa335b3e5ed8a8c2c3cbbe5ae73818a8d0a.6e90bd1865737bc793c8328b0faedab8.png",
-                    "imageFemale": "https://assets.mhw-db.com/armor/fba000594549191b0913b4c839c59fbb82e68aad.3de50440c16c93ece97a084352db1b1b.png"
+                    "imageFemale": "https://static.wikia.nocookie.net/monsterhunter/images/d/d7/1stGen-Question_Mark_Icon.svg/revision/latest/smart/width/250/height/250?cb=20210129022741"
                 }
             },
             {
@@ -6402,7 +6405,7 @@
                 "type": "gloves",
                 "assets": {
                     "imageMale": "https://assets.mhw-db.com/armor/0f72df478e59a3142133de1dfbcc4b1b90edebfd.06c1ec6daeaaba6ce74b6f41c46db19b.png",
-                    "imageFemale": "https://assets.mhw-db.com/armor/f3abd35ffa744cb303288816fca163fb96ded57b.97c6607729b27375cd0428fc2f4ae96f.png"
+                    "imageFemale": "https://static.wikia.nocookie.net/monsterhunter/images/d/d7/1stGen-Question_Mark_Icon.svg/revision/latest/smart/width/250/height/250?cb=20210129022741"
                 }
             },
             {
@@ -6420,7 +6423,7 @@
                 "type": "legs",
                 "assets": {
                     "imageMale": "https://assets.mhw-db.com/armor/9cdce772920d35e5c8ca7bcc1c591dac1c9f6922.44002fa0bc3b3a4cb418b088506a054d.png",
-                    "imageFemale": "https://assets.mhw-db.com/armor/abd6311f80de140f81ce35cedd1bd77e3ed59c2b.fc369c2cc3a71c4638bdeecf13643b00.png"
+                    "imageFemale": "https://static.wikia.nocookie.net/monsterhunter/images/d/d7/1stGen-Question_Mark_Icon.svg/revision/latest/smart/width/250/height/250?cb=20210129022741"
                 }
             }
         ]
@@ -6435,7 +6438,7 @@
                 "type": "head",
                 "assets": {
                     "imageMale": "https://assets.mhw-db.com/armor/e5965721363769c6e747eff96fb8720c42cc7d25.e8a04469540d81dad382b32cb673b9c7.png",
-                    "imageFemale": "https://assets.mhw-db.com/armor/a30d7cf3ff696e07e746aeed1f593a90648a435f.a9ff8627de743cb13e3b1fe48461ec0f.png"
+                    "imageFemale": "https://static.wikia.nocookie.net/monsterhunter/images/d/d7/1stGen-Question_Mark_Icon.svg/revision/latest/smart/width/250/height/250?cb=20210129022741"
                 }
             },
             {
@@ -6444,7 +6447,7 @@
                 "type": "chest",
                 "assets": {
                     "imageMale": "https://assets.mhw-db.com/armor/13c70df4b59ed87d55aeb15123798ed75c44a0e3.479115c15c1e21eef6f3e5df4b8a17d7.png",
-                    "imageFemale": "https://assets.mhw-db.com/armor/fba000594549191b0913b4c839c59fbb82e68aad.3de50440c16c93ece97a084352db1b1b.png"
+                    "imageFemale": "https://static.wikia.nocookie.net/monsterhunter/images/d/d7/1stGen-Question_Mark_Icon.svg/revision/latest/smart/width/250/height/250?cb=20210129022741"
                 }
             },
             {
@@ -6453,7 +6456,7 @@
                 "type": "gloves",
                 "assets": {
                     "imageMale": "https://assets.mhw-db.com/armor/0f72df478e59a3142133de1dfbcc4b1b90edebfd.06c1ec6daeaaba6ce74b6f41c46db19b.png",
-                    "imageFemale": "https://assets.mhw-db.com/armor/f3abd35ffa744cb303288816fca163fb96ded57b.97c6607729b27375cd0428fc2f4ae96f.png"
+                    "imageFemale": "https://static.wikia.nocookie.net/monsterhunter/images/d/d7/1stGen-Question_Mark_Icon.svg/revision/latest/smart/width/250/height/250?cb=20210129022741"
                 }
             },
             {
@@ -6462,7 +6465,7 @@
                 "type": "waist",
                 "assets": {
                     "imageMale": "https://assets.mhw-db.com/armor/5dced2c1b610c27da52245040a412bf30d4ef87c.55b9ad44cf321ec8e71547282cf7d457.png",
-                    "imageFemale": "https://assets.mhw-db.com/armor/5dced2c1b610c27da52245040a412bf30d4ef87c.55b9ad44cf321ec8e71547282cf7d457.png"
+                    "imageFemale": "https://static.wikia.nocookie.net/monsterhunter/images/d/d7/1stGen-Question_Mark_Icon.svg/revision/latest/smart/width/250/height/250?cb=20210129022741"
                 }
             },
             {
@@ -6471,7 +6474,7 @@
                 "type": "legs",
                 "assets": {
                     "imageMale": "https://assets.mhw-db.com/armor/ef10e2c7d3fdc0c4a0b9ba023d66e1879cc30515.6cd4395f0030e85464f451418af15a03.png",
-                    "imageFemale": "https://assets.mhw-db.com/armor/abd6311f80de140f81ce35cedd1bd77e3ed59c2b.fc369c2cc3a71c4638bdeecf13643b00.png"
+                    "imageFemale": "https://static.wikia.nocookie.net/monsterhunter/images/d/d7/1stGen-Question_Mark_Icon.svg/revision/latest/smart/width/250/height/250?cb=20210129022741"
                 }
             }
         ]
@@ -6720,7 +6723,7 @@
                 "type": "head",
                 "assets": {
                     "imageMale": "https://static.wikia.nocookie.net/monsterhunter/images/d/d7/1stGen-Question_Mark_Icon.svg/revision/latest/smart/width/250/height/250?cb=20210129022741",
-                    "imageFemale": "https://assets.mhw-db.com/armor/a30d7cf3ff696e07e746aeed1f593a90648a435f.a9ff8627de743cb13e3b1fe48461ec0f.png"
+                    "imageFemale": "https://static.wikia.nocookie.net/monsterhunter/images/d/d7/1stGen-Question_Mark_Icon.svg/revision/latest/smart/width/250/height/250?cb=20210129022741"
                 }
             }
         ]
@@ -7019,7 +7022,8 @@
                 "name": "Kirin Horn Gamma",
                 "type": "head",
                 "assets": {
-                    "imageMale": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/kirin-horn-gamma-mhw-wiki-guide.png",
+                    "imageMale": "https://static.wikia.nocookie.net/monsterhunter/images/d/d7/1stGen-Question_Mark_Icon.svg/revision/latest/smart/width/250/height/250?cb=20210129022741",
+
                     "imageFemale": "https://static.wikia.nocookie.net/monsterhunter/images/d/d7/1stGen-Question_Mark_Icon.svg/revision/latest/smart/width/250/height/250?cb=20210129022741"
                 }
             },
@@ -7028,7 +7032,8 @@
                 "name": "Kirin Jacket Gamma",
                 "type": "chest",
                 "assets": {
-                    "imageMale": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/kirin-jacket-gamma-mhw-wiki-guide.png",
+                    "imageMale": "https://static.wikia.nocookie.net/monsterhunter/images/d/d7/1stGen-Question_Mark_Icon.svg/revision/latest/smart/width/250/height/250?cb=20210129022741",
+
                     "imageFemale": "https://static.wikia.nocookie.net/monsterhunter/images/d/d7/1stGen-Question_Mark_Icon.svg/revision/latest/smart/width/250/height/250?cb=20210129022741"
                 }
             },
@@ -7055,7 +7060,9 @@
                 "name": "Kirin Leg Guards Gamma",
                 "type": "legs",
                 "assets": {
-                    "imageMale": "https://assets.mhw-db.com/armor/c5c55c125f9ac5c9c2e074fcf171bdffd20af8e9.f428ae0c7a70bdccec78a78641054669.png",
+
+                    "imageMale": "https://static.wikia.nocookie.net/monsterhunter/images/d/d7/1stGen-Question_Mark_Icon.svg/revision/latest/smart/width/250/height/250?cb=20210129022741",
+
                     "imageFemale": "https://static.wikia.nocookie.net/monsterhunter/images/d/d7/1stGen-Question_Mark_Icon.svg/revision/latest/smart/width/250/height/250?cb=20210129022741"
                 }
             }
