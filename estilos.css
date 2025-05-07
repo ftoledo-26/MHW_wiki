@@ -159,8 +159,8 @@ ul{
 
 
 li{
-   list-style: none;
-   padding-bottom: 10px;
+    list-style: none;
+   padding-bottom: 20px;
    cursor: pointer;
    align-items: center;
    padding: 10px;
